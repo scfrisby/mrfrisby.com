@@ -11,11 +11,13 @@ block content
   -   return -item.date
   - }).first(5).value() // and finally take the first 5
   section.contents.row
-   div.slot-6-7-8
+   div.slot-6-7-8.contents
     h1 Journal Entries
     ol
      each article in articles
       li
+       if article._metadata.dss
+       span.date= article._metadata.dss
        a(href=article.url)= article.title
     a.toggle_more(href='archive.html')#archive Archives
    div.slot-9.profile	

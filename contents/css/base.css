@@ -57,23 +57,23 @@ body > header small, body > header a {
 	margin-right: 25px;
 }
 .contents ol li {
-	line-height: 1.33em;
+	line-height: 1.5em;
 	clear: both;
 	display: block;
 	padding: .33em;
 }
 .contents ol li span.date {
-	width: 50px;
+	width: 75px;
 	display: inline-block;
-	padding-right: 15px;
-	text-align: right;
+	border-right: 1px solid #f3f3f3;
+	margin-right: 15px;
+	text-align: left;
 	color: #999;
 	font-size: .75em;
-	height: 100%;
-	float: left;
+	
 }
 .contents ol li a {
-
+	
 }
 .profile {
 	-webkit-transform: scaleX(-1);
