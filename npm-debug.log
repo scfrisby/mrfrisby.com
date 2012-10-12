@@ -1,0 +1,122 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'moment', '-g' ]
+2 info using npm@1.1.62
+3 info using node@v0.8.11
+4 verbose read json /usr/local/lib/package.json
+5 verbose read json /usr/local/lib/package.json
+6 verbose cache add [ 'moment', null ]
+7 silly cache add name=undefined spec="moment" args=["moment",null]
+8 verbose parsed url { pathname: 'moment', path: 'moment', href: 'moment' }
+9 silly lockFile b56def36-moment moment
+10 verbose lock moment /Users/Stu/.npm/b56def36-moment.lock
+11 silly lockFile b56def36-moment moment
+12 verbose addNamed [ 'moment', '' ]
+13 verbose addNamed [ null, '' ]
+14 silly lockFile 42aa250a-moment moment@
+15 verbose lock moment@ /Users/Stu/.npm/42aa250a-moment.lock
+16 silly addNameRange { name: 'moment', range: '', hasData: false }
+17 verbose url raw moment
+18 verbose url resolving [ 'https://registry.npmjs.org/', './moment' ]
+19 verbose url resolved https://registry.npmjs.org/moment
+20 info trying registry request attempt 1 at 21:57:24
+21 verbose etag "1B1NW3JIXH3206F7M4B2NYA7Z"
+22 http GET https://registry.npmjs.org/moment
+23 http 304 https://registry.npmjs.org/moment
+24 silly registry.get cb [ 304,
+24 silly registry.get   { server: 'CouchDB/1.2.0 (Erlang OTP/R15B)',
+24 silly registry.get     etag: '"1B1NW3JIXH3206F7M4B2NYA7Z"',
+24 silly registry.get     date: 'Thu, 11 Oct 2012 19:57:24 GMT',
+24 silly registry.get     'content-length': '0' } ]
+25 verbose etag moment from cache
+26 silly addNameRange number 2 { name: 'moment', range: '', hasData: true }
+27 silly addNameRange versions [ 'moment',
+27 silly addNameRange   [ '1.0.0',
+27 silly addNameRange     '1.0.1',
+27 silly addNameRange     '1.1.0',
+27 silly addNameRange     '1.1.1',
+27 silly addNameRange     '1.2.0',
+27 silly addNameRange     '1.3.0',
+27 silly addNameRange     '1.4.0',
+27 silly addNameRange     '1.5.0',
+27 silly addNameRange     '1.5.1',
+27 silly addNameRange     '1.6.0',
+27 silly addNameRange     '1.6.1',
+27 silly addNameRange     '1.6.2',
+27 silly addNameRange     '1.7.0',
+27 silly addNameRange     '1.7.1',
+27 silly addNameRange     '1.7.2' ] ]
+28 verbose addNamed [ 'moment', '1.7.2' ]
+29 verbose addNamed [ '1.7.2', '1.7.2' ]
+30 silly lockFile e082cc8f-moment-1-7-2 moment@1.7.2
+31 verbose lock moment@1.7.2 /Users/Stu/.npm/e082cc8f-moment-1-7-2.lock
+32 verbose read json /Users/Stu/.npm/moment/1.7.2/package/package.json
+33 silly lockFile e082cc8f-moment-1-7-2 moment@1.7.2
+34 silly lockFile 42aa250a-moment moment@
+35 silly resolved [ { name: 'moment',
+35 silly resolved     version: '1.7.2',
+35 silly resolved     description: 'Parse, manipulate, and display dates.',
+35 silly resolved     homepage: 'http://momentjs.com',
+35 silly resolved     author:
+35 silly resolved      { name: 'Tim Wood',
+35 silly resolved        email: 'washwithcare@gmail.com',
+35 silly resolved        url: 'http://timwoodcreates.com/' },
+35 silly resolved     contributors: [ [Object] ],
+35 silly resolved     keywords:
+35 silly resolved      [ 'moment',
+35 silly resolved        'date',
+35 silly resolved        'time',
+35 silly resolved        'parse',
+35 silly resolved        'format',
+35 silly resolved        'validate',
+35 silly resolved        'i18n',
+35 silly resolved        'l10n',
+35 silly resolved        'ender' ],
+35 silly resolved     main: './moment.js',
+35 silly resolved     engines: { node: '*' },
+35 silly resolved     repository: { type: 'git', url: 'https://github.com/timrwood/moment.git' },
+35 silly resolved     bugs: { url: 'https://github.com/timrwood/moment/issues' },
+35 silly resolved     licenses: [ [Object] ],
+35 silly resolved     devDependencies: { jshint: 'latest', 'uglify-js': 'latest', nodeunit: 'latest' },
+35 silly resolved     scripts: { test: 'make test' },
+35 silly resolved     ender: './ender.js',
+35 silly resolved     readme: '[Moment.js](http://momentjs.com)\n================================\n\nA lightweight javascript date library for parsing, validating, manipulating, and formatting dates.\n\n### [Check out the website](http://momentjs.com)\n\n### [Read the documentation](http://momentjs.com/docs/)\n\n### [Run the unit tests](http://momentjs.com/test/)\n\n\nUpgrading to 1.6.0\n==================\n\nThere are a few things being deprecated in the 1.6.0 release.\n\n1. The format tokens `z` and `zz` (timezone abbreviations like EST CST MST etc) will no longer be supported. Due to inconsistent browser support, we are unable to consistently produce this value. See [this issue](https://github.com/timrwood/moment/issues/162) for more background.\n\n2. The method `moment.fn.native` is deprecated in favor of `moment.fn.toDate`. There continue to be issues with Google Closure Compiler throwing errors when using `native`, even in valid instances.\n\n3. The way to customize am/pm strings is being changed. This would only affect you if you created a custom language file. For more information, see [this issue](https://github.com/timrwood/moment/pull/222).\n\n\nChangelog\n=========\n\n\n### 1.7.0 [See discussion](https://github.com/timrwood/moment/issues/288)\n\nAdded `moment.fn.endOf()` and `moment.fn.startOf()`.\n\nAdded validation via `moment.fn.isValid()`.\n\nMade formatting method 3x faster. http://jsperf.com/momentjs-cached-format-functions\n\nAdd support for month/weekday callbacks in `moment.fn.format()`\n\nAdded instance specific languages.\n\nAdded two letter weekday abbreviations with the formatting token `dd`.\n\nVarious language updates.\n\nVarious bugfixes.\n\n### 1.6.0 [See discussion](https://github.com/timrwood/moment/pull/268)\n\nAdded Durations.\n\nRevamped parser to support parsing non-separated strings (YYYYMMDD vs YYYY-MM-DD).\n\nAdded support for millisecond parsing and formatting tokens (S SS SSS)\n\nAdded a getter for `moment.lang()`\n\nVarious bugfixes.\n\n### 1.5.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=10&page=1&state=closed)\n\nAdded UTC mode.\n\nAdded automatic ISO8601 parsing.\n\nVarious bugfixes.\n\n### 1.4.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=8&state=closed)\n\nAdded `moment.fn.toDate` as a replacement for `moment.fn.native`.\n\nAdded `moment.fn.sod` and `moment.fn.eod` to get the start and end of day.\n\nVarious bugfixes.\n\n### 1.3.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=7&state=closed)\n\nAdded support for parsing month names in the current language.\n\nAdded escape blocks for parsing tokens.\n\nAdded `moment.fn.calendar` to format strings like \'Today 2:30 PM\', \'Tomorrow 1:25 AM\', and \'Last Sunday 4:30 AM\'.\n\nAdded `moment.fn.day` as a setter.\n\nVarious bugfixes\n\n### 1.2.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=4&state=closed)\n\nAdded timezones to parser and formatter.\n\nAdded `moment.fn.isDST`.\n\nAdded `moment.fn.zone` to get the timezone offset in minutes.\n\n### 1.1.2 [See milestone](https://github.com/timrwood/moment/issues?milestone=6&state=closed)\n\nVarious bugfixes\n\n### 1.1.1 [See milestone](https://github.com/timrwood/moment/issues?milestone=5&state=closed)\n\nAdded time specific diffs (months, days, hours, etc)\n\n### 1.1.0\n\nAdded `moment.fn.format` localized masks. \'L LL LLL LLLL\' [issue 29](https://github.com/timrwood/moment/pull/29)\n\nFixed [issue 31](https://github.com/timrwood/moment/pull/31).\n\n### 1.0.1\n\nAdded `moment.version` to get the current version.\n\nRemoved `window !== undefined` when checking if module exists to support browserify. [issue 25](https://github.com/timrwood/moment/pull/25)\n\n### 1.0.0\n\nAdded convenience methods for getting and setting date parts.\n\nAdded better support for `moment.add()`.\n\nAdded better lang support in NodeJS.\n\nRenamed library from underscore.date to Moment.js\n\n### 0.6.1\n\nAdded Portuguese, Italian, and French language support\n\n### 0.6.0\n\nAdded _date.lang() support.\nAdded support for passing multiple formats to try to parse a date. _date("07-10-1986", ["MM-DD-YYYY", "YYYY-MM-DD"]);\nMade parse from string and single format 25% faster.\n\n### 0.5.2\n\nBuxfix for [issue 8](https://github.com/timrwood/underscore.date/pull/8) and [issue 9](https://github.com/timrwood/underscore.date/pull/9).\n\n### 0.5.1\n\nBuxfix for [issue 5](https://github.com/timrwood/underscore.date/pull/5).\n\n### 0.5.0\n\nDropped the redundant `_date.date()` in favor of `_date()`.\nRemoved `_date.now()`, as it is a duplicate of `_date()` with no parameters.\nRemoved `_date.isLeapYear(yearNuumber)`. Use `_date([yearNumber]).isLeapYear()` instead.\nExposed customization options through the `_date.relativeTime`, `_date.weekdays`, `_date.weekdaysShort`, `_date.months`, `_date.monthsShort`, and `_date.ordinal` variables instead of the `_date.customize()` function.\n\n### 0.4.1\n\nAdded date input formats for input strings.\n\n### 0.4.0\n\nAdded underscore.date to npm. Removed dependancies on underscore.\n\n### 0.3.2\n\nAdded `\'z\'` and `\'zz\'` to `_.date().format()`. Cleaned up some redundant code to trim off some bytes.\n\n### 0.3.1\n\nCleaned up the namespace. Moved all date manipulation and display functions to the _.date() object.\n\n### 0.3.0\n\nSwitched to the Underscore methodology of not mucking with the native objects\' prototypes.\nMade chaining possible.\n\n### 0.2.1\n\nChanged date names to be a more pseudo standardized \'dddd, MMMM Do YYYY, h:mm:ss a\'.\nAdded `Date.prototype` functions `add`, `subtract`, `isdst`, and `isleapyear`.\n\n### 0.2.0\n\nChanged function names to be more concise.\nChanged date format from php date format to custom format.\n\n### 0.1.0\n\nInitial release\n\nLicense\n=======\n\nMoment.js is freely distributable under the terms of the MIT license.\n\nCopyright (c) 2011-2012 Tim Wood\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation\nfiles (the "Software"), to deal in the Software without restriction, including without limitation the rights to use,\ncopy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+35 silly resolved     _id: 'moment@1.7.2',
+35 silly resolved     _from: 'moment' } ]
+36 info install moment@1.7.2 into /usr/local/lib
+37 info installOne moment@1.7.2
+38 verbose from cache /Users/Stu/.npm/moment/1.7.2/package/package.json
+39 info /usr/local/lib/node_modules/moment unbuild
+40 verbose read json /usr/local/lib/node_modules/moment/package.json
+41 verbose tar unpack /Users/Stu/.npm/moment/1.7.2/package.tgz
+42 silly lockFile 18b875c0-sr-local-lib-node-modules-moment /usr/local/lib/node_modules/moment
+43 verbose lock /usr/local/lib/node_modules/moment /Users/Stu/.npm/18b875c0-sr-local-lib-node-modules-moment.lock
+44 silly gunzTarPerm modes [ '755', '644' ]
+45 error Error: EACCES, mkdir '/usr/local/lib/node_modules/moment'
+45 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/moment']
+45 error   errno: 3,
+45 error   code: 'EACCES',
+45 error   path: '/usr/local/lib/node_modules/moment',
+45 error   fstream_type: 'Directory',
+45 error   fstream_path: '/usr/local/lib/node_modules/moment',
+45 error   fstream_class: 'DirWriter',
+45 error   fstream_stack:
+45 error    [ 'DirWriter._create (/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23)',
+45 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:37:53',
+45 error      'Object.oncomplete (fs.js:297:15)' ] }
+46 error Please try running this command again as root/Administrator.
+47 error System Darwin 12.2.0
+48 error command "node" "/usr/local/bin/npm" "install" "moment" "-g"
+49 error cwd /Users/Stu/Sites/beta
+50 error node -v v0.8.11
+51 error npm -v 1.1.62
+52 error path /usr/local/lib/node_modules/moment
+53 error fstream_path /usr/local/lib/node_modules/moment
+54 error fstream_type Directory
+55 error fstream_class DirWriter
+56 error code EACCES
+57 error errno 3
+58 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules/moment'
+59 error fstream_stack DirWriter._create (/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23)
+59 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:37:53
+59 error fstream_stack Object.oncomplete (fs.js:297:15)
+60 verbose exit [ 3, true ]

@@ -1,0 +1,19 @@
+extends layout
+
+block title= page.title 
+
+block header
+
+block content
+ div.entry
+  article.contents.row
+   header.slot-0-1
+    div
+     h1=page.title
+     span.pub_date
+      //include date
+     h2 Categories
+     ul
+       li categories
+   div.slot-2-3-4-5  
+    article.post!= page.html

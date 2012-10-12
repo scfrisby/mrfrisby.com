@@ -1,0 +1,28 @@
+extends layout
+
+block content
+  include author
+  //- underscore helps us filter and sort our articles
+  - var articles = _.chain(contents.articles._.directories).map(function(item) {
+  -   // map articles to index pages of subdirectories of 'articles'
+  -   return item.index
+  - }).compact().sortBy(function(item) { // compact removes any directories w/o an index
+  -   // sort them by date
+  -   return -item.date
+  - }).first(5).value() // and finally take the first 5
+  section.contents.row
+   div.slot-6-7-8
+    h1 Journal Entries
+    ol
+     each article in articles
+      li
+       a(href=article.url)= article.title
+    a.toggle_more(href='archive.html')#archive Archives
+   div.slot-9.profile	
+    img(src='http://mrfrisby.com/stu.png')
+  section.row
+   div.slot-6.instagram
+   ul.slot-7-8-9.tweet 
+    li
+     span
+     a(href="http://twitter.com/stuartfrisby") Find me on the twitters 

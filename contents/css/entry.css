@@ -1,0 +1,102 @@
+.entry article header {
+	margin-bottom: 30px;
+}
+.entry .excerpt {
+	font-size: .5em;
+	line-height: 1em;
+	color: #777;
+}
+header.entry h1 {
+	font-size: 150% !important;
+}
+.pub_date {
+	line-height: 1.9em;
+	margin-top: 1px;
+	font-size: .75em;
+	font-style: italic;
+}
+.entry header h2 {
+	font-size: .55em;
+	font-weight: 100;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	line-height: .2em;
+}
+.entry header ul {
+	font-size: .5em;
+	font-style: italic;
+	list-style: none inside none;
+	line-height: .05em;
+}
+.entry header ul li {
+	display: inline;
+}
+.entry header ul li:not(:last-child):after {
+	content: ',';
+	margin-right: .1em;
+}
+.entry article > div {}
+.entry article header h1 {
+	font-style: normal;
+	font-weight: 700;
+	background-color: #044;
+	color: #fff;
+	line-height: 1.25em;
+	padding: 20px;
+	margin: 10px 0 0 0;
+}
+.entry article > div {
+	margin-top: 10px;
+}
+.entry article p {
+	font-size: .7em;
+	line-height: 1.5em;
+	padding-bottom: 20px;
+}
+
+.entry article > div a:link, .entry article > div a:visited {color: #27c78c;}
+.entry article > div a:hover {color: #f24c27;}
+
+/* --- Titles --- */
+.entry article > div h1, article > div h2,
+article > div h3, article > div h4,
+article > div h5, article > div h6 {
+	margin: 10px 0;
+	font-style: normal;
+	font-weight: bold;
+}
+.entry article > div h1 {font-size: 1.33em; line-height: .8em; margin: .25em 0;}
+.entry article > div h2 {font-size: 1.2em;}
+.entry article > div h3 {font-size: 1em;}
+.entry article > div h4 {font-size: .8em;}
+.entry article > div h5 {font-size: .75em;}
+.entry article > div h6 {font-size: .6em;}
+
+
+
+.entry article > div h1 + h2 {
+	
+	font-style: italic;
+	font-weight: 700;
+	font-size: .75em;
+	padding-bottom: 10px;
+	line-height: .75em;
+	border-bottom: 1px solid #EEE;
+	color: #ABB;
+}
+
+pre, code {
+	font-family: Menlo, Monaco, monospace;
+	font-size: .66em;
+	line-height: 1.2em;	
+}
+code {
+	background-color: rgba(215, 250, 229, .5);
+	padding: .25em;
+	border-radius: 2px;
+}
+code.block {
+	display: block;
+	border: 1px solid #999;
+	padding: .25em 1em;
+}

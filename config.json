@@ -1,0 +1,9 @@
+{
+  "locals": {
+    "url": "http://localhost:8888",
+    "name": "Mr Frisby",
+    "owner": "Stuart Frisby",
+    "description": "STUART FRISBY IS A DESIGNER BASED IN AMSTERDAM",
+    "index_articles": 3
+  }
+}

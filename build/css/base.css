@@ -1,0 +1,189 @@
+html, body, div, img, ul, ol, li, p {
+ 	margin: 0;
+ 	padding: 0; 
+	border: 0;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+a:hover {
+	color: #f24c27;
+}
+::selection {
+	background-color: rgba(242, 76, 39, 0.9);
+	color: #fff;
+}
+body {
+	margin: 20px;
+	font: normal normal normal 32px/1.4em 'Gentium Book Basic' serif;
+	color: #044;
+	background-color: #fff;
+}
+body > header {
+	border-bottom: 1px solid #DEE;
+	padding-bottom: .25em;
+	margin-bottom: .5em;
+}
+body > header h1 {
+	margin: .1em 0;
+	display: block;
+	font-size: 3em;
+	line-height: .75em;
+	font-weight: 100;
+	letter-spacing: .04em;
+	text-transform: uppercase;
+}
+body > header h1 .b {margin-left: -.01em;}
+body > header h1 .y {margin-left: -.05em;}
+body > header small, body > header a {
+	padding: .5em 1em;
+	font-size: .45em;
+	letter-spacing: .075em;
+	background-color: #27c78c;
+	color: #fff;
+	text-transform: uppercase;
+}
+.contents h1 {
+	font-weight: 100;
+	font-style: italic;
+	font-size: .95em;
+	margin: 0 20px 10px 0;
+}
+
+.contents ol {
+	font-size: .666em;
+	list-style: none inside none;
+	margin-right: 25px;
+}
+.contents ol li {
+	line-height: 1.33em;
+	clear: both;
+	display: block;
+	padding: .33em;
+}
+.contents ol li span.date {
+	width: 50px;
+	display: inline-block;
+	padding-right: 15px;
+	text-align: right;
+	color: #999;
+	font-size: .75em;
+	height: 100%;
+	float: left;
+}
+.contents ol li a {
+
+}
+.profile {
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	text-align: center;
+}
+.profile img {
+	background-color: #f2f2f2;
+	width: 200px;
+	height: 200px;
+	border-radius: 999px;
+	margin-top: 30px;
+}
+.toggle_more {
+	background-color: #EFF;
+	display: inline;
+	font-size: .5em;
+	padding: 5px;
+	margin: 10px 0 0 85px;
+}
+.toggle_more:before {
+	content: '\25BA';
+	font-size: .5em;
+	padding: 6px 6px 0 0;
+	margin-top: -12px;
+}
+section {
+	padding: 10px 0 15px;
+	margin: 10px 0;
+	border-bottom: 1px solid #DDD;
+}
+
+.instagram {
+	text-align: center;
+}
+
+.instagram img {
+	border-radius: 200px;
+}
+
+#twitter_update_list li {
+	list-style: none inside none;
+	height: 160px;
+	padding: 20px;
+	font-size: .8em;
+	line-height: 1.5em;
+}
+#twitter_update_list li > a:link {
+	display: block;
+	text-indent: 40px;
+	font-size: .75em !important; /* Blame twitter */
+	background: transparent url(https://twitter.com/images/resources/twitter-bird-light-bgs.png) no-repeat -1% 50%;
+	background-size: 7%;
+}
+#twitter_update_list li > a:link::before {
+	padding-right: 10px;
+}
+#twitter_update_list li > a:link::after {
+	content: ' on the twitters';
+}
+
+
+
+/* Grid Debug */
+*[class*=slot] {
+	outline: 1px solid red;
+}
+
+/* Shit that happens when your shit is a certain size */
+
+@media screen and (max-width: 719px) {
+	body > header small {
+		display: block;
+		padding: 10px 0;
+		line-height: 1.25em;
+		text-align: center;
+		margin: 0 auto 20px;
+		overflow: visible;
+	}
+	body:not(.entry) > header h1 {
+		display: block;
+		text-align: center;
+		font-size: 180%;
+	}
+}
+@media screen and (min-width: 720px) {
+	article > header div.fixed {
+	position: fixed;
+	top: 1px;
+	width: inherit;
+	}
+}
+@media screen and (max-width: 985px) {
+	.instagram img {
+		width: 175px;
+		height: 175px;
+		margin-top: 15px;
+		margin-bottom: 5px;
+	}
+	.entry article header h1 {
+		font-size: .75em;
+	}
+	.entry article > div {
+		font-size: .85em;
+	}
+}
+@media screen and (min-width: 986px) {
+	.profile img {
+		width: 275px;
+		height: 275px;
+		margin-top: 15px;
+	}
+}

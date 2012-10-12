@@ -1,0 +1,13 @@
+if page.url != "/"
+ header.entry
+  a(href='/') HOME
+  h1= locals.name
+
+if page.url == "/"
+ header
+  small= locals.description
+  h1= locals.name
+
+
+  
+  
