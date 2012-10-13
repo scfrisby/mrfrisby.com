@@ -6,7 +6,7 @@ block content
   article.contents.row
    header.slot-0-1
     div
-     h1 Archive
+     h1 Archives
    div.slot-2-3-4-5  
     != page.html
     - var archive = _.chain(contents.articles._.directories).map(function(item) {
@@ -17,15 +17,13 @@ block content
     -   return item.date.getFullYear()
     - }).value()
     - var map = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-    ul
+    ul.archives
      each year in _.chain(archive).keys().reverse().value()
-       li.year= year
        - var months = _.groupBy(archive[year], function(item) { return map[item.date.getMonth()] })
-       ul
          each articles, month in months
-           li
-             strong= month
              each article in articles
-               br
-               a(href=article.url)= article.title
+              li
+               h1 
+                a(href=article.url)= article.title
+                 p= article.metadata.abstract
 

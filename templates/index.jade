@@ -9,7 +9,7 @@ block content
   - }).compact().sortBy(function(item) { // compact removes any directories w/o an index
   -   // sort them by date
   -   return -item.date
-  - }).first(5).value() // and finally take the first 5
+  - }).first(10).value() // and finally take the first 10
   section.contents.row
    div.slot-6-7-8.contents
     h1 Journal Entries
@@ -19,7 +19,7 @@ block content
        if article._metadata.dss
        span.date= article._metadata.dss
        a(href=article.url)= article.title
-    a.toggle_more(href='archive.html')#archive Archives
+    a.view_more(href='archive.html')#archive Archives
    div.slot-9.profile	
     img(src='http://mrfrisby.com/stu.png')
   section.row
@@ -27,4 +27,4 @@ block content
    ul.slot-7-8-9.tweet 
     li
      span
-     a(href="http://twitter.com/stuartfrisby") Find me on the twitters 
+     a(class='twitters', href='http://twitter.com/stuartfrisby') Join me on the twitters 

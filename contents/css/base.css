@@ -31,11 +31,12 @@ body > header h1 {
 	font-size: 3em;
 	line-height: .75em;
 	font-weight: 100;
-	letter-spacing: .04em;
+	letter-spacing: -0.005em;
 	text-transform: uppercase;
 }
-body > header h1 .b {margin-left: -.01em;}
-body > header h1 .y {margin-left: -.05em;}
+.r {margin-left: -.025em;}
+.b {margin-left: -.01em;}
+.y {margin-left: -.05em;}
 body > header small, body > header a {
 	padding: .5em 1em;
 	font-size: .45em;
@@ -55,6 +56,7 @@ body > header small, body > header a {
 	font-size: .666em;
 	list-style: none inside none;
 	margin-right: 25px;
+	margin-left: 75px;
 }
 .contents ol li {
 	line-height: 1.5em;
@@ -63,16 +65,14 @@ body > header small, body > header a {
 	padding: .33em;
 }
 .contents ol li span.date {
-	width: 75px;
+	width: 55px;
 	display: inline-block;
-	border-right: 1px solid #f3f3f3;
-	margin-right: 15px;
-	text-align: left;
+	margin-right: 10px;
+	padding-right: 10px;
+	text-align: right;
 	color: #999;
 	font-size: .75em;
-	
-}
-.contents ol li a {
+	margin-left: -75px;
 	
 }
 .profile {
@@ -80,20 +80,23 @@ body > header small, body > header a {
 	transform: scaleX(-1);
 	text-align: center;
 }
-.profile img {
+.profile img,
+.instagram img {
 	background-color: #f2f2f2;
 	width: 200px;
 	height: 200px;
 	border-radius: 999px;
 }
-.toggle_more {
-	background-color: #EFF;
+.view_more {
+	text-transform: uppercase;
+	background-color: #27c78c;
+	color: #fff;
 	display: inline;
 	font-size: .5em;
-	padding: 5px;
-	margin: 10px 0 0;
+	padding: .5em;
+	margin: 10px 0 0 80px;
 }
-.toggle_more:before {
+.view_more:before {
 	content: '\25BA';
 	font-size: .5em;
 	padding: 6px 6px 0 0;
@@ -109,9 +112,6 @@ section {
 	text-align: center;
 }
 
-.instagram img {
-	border-radius: 200px;
-}
 
 .tweet li {
     list-style: none inside none;
@@ -120,20 +120,41 @@ section {
     font-size: .8em;
     line-height: 1.5em;
 }
-.tweet li a:link {
+.tweet li a.twitters {
 	display: block;
     text-indent: 40px;
     font-size: .75em !important; /* Blame twitter */
     background: transparent url(https://twitter.com/images/resources/twitter-bird-light-bgs.png) no-repeat -1% 50%;
     background-size: 7%;
 }
-
-/* Grid Debug */
-.gprid {
-	outline: 1px solid red;
+.archives {
+	list-style: none inside none;
 }
-*ppp[class*=slot] {
-	outline: 1px solid red;
+.archives li h1 a {
+	display: block;
+	font-weight: normal;
+	font-size: .75em;
+	line-height: 1.1em;
+}
+.archives li h1 a p {
+	color: #333;
+}
+.slot-6-7, .slot-8-9, .slot-6-7-8-9 {
+	margin-bottom: 20px;
+}
+
+.slot-6-7 .view_more {
+	margin-left: 0;
+}
+.slot-8-9 a:link {
+	font-size: .5em;
+	text-align: right;
+	display: block;
+	color: #888;
+	margin-top: .5em;
+}
+.slot-8-9 a:hover {
+	color: #f24c27;
 }
 
 /* Shit that happens when your shit is a certain size */

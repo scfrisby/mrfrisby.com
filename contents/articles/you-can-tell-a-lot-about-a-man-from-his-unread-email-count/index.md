@@ -1,8 +1,9 @@
 title: You can tell a lot about a man from his unread email count
-author: stuart-frisby
+abstract: Because good enough isn't good enough anymore
+author: Stuart Frisby
 date: 2012-09-17 15:00
 ds: September 17
-dss: Sept 17
+dss: Sep 17
 template: article.jade
 tags: productivity, craftsmanship
 
