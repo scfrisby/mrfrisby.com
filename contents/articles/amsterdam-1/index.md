@@ -1,0 +1,15 @@
+title: Amsterdam (1)
+abstract: Reflecting on our time in New Zealand & Arrival in the Netherlands
+author: Stuart Frisby
+date: 2011-04-24 15:00
+ds: April 24
+dss: Apr 24
+template: article.jade
+
+We left New Zealand just two weeks ago and already in retrospect it feels like our two years there were just a few short months punctuated by notable events. The same happened when I left Japan after a year there, the immediate and absolute change in your surroundings rips from you all of the mental cues which form the conduits to your fondest and least fond memories of places and the people and events which have inhabited them during your time in a country or a city. I miss Wellington as I miss Fukuoka, but of the latter what I miss the most is remembering it well enough to miss it properly.
+
+So with New Zealand behind us and Europe at our feet we are slowly adjusting to the long spring evenings, our temporary accommodation & all of the usual trials which come from living in a country where you don't speak the language or have much knowledge in the way of its culture and history. Our coming here happened quickly enough that it barely felt like it was actually happening before it actually did; and so practical concerns such as the ease with which one can distinguish meat products in a supermarket, to the rules of being a pedestrian in a city made for cyclists have been unfolding on an ad-hoc basis for the last fourteen days. It's all bloody exciting, and with beautiful Amsterdam as backdrop the incentive for integrating into this society is obvious and appealing. We are back in the warm embrace of Europe, with old buildings, old cultures and all of the things which in so lacking made New Zealand an always temporary home. We feel very much like we've come home and that this could be the place we have children and live and work for a considerable number of years.
+
+In more immediate news we have found an apartment in Rivierenbuurt, one of the southern parts of the city from where I'll be able to commute easily to work on foot or by bike. It's a third-floor apartment in a 1930s house on a quiet street. It has the all important second bedroom with which we will be able to host frequent visitors from England - The first three of which we've already excitedly penned in - big rooms, big windows and feels every bit like the grand old place that we hoped we'd be able to find in our price range. It will provide the perfect base from which we will get to know our new hometown, will provide a quiet study environment for Victoria when she starts her masters later in the year & is just the sort of place I'd always imagined going home to after a day at the office. We've increased our floorspace by about 100% compared to our place in Wellington whilst being just as close to the action and the office.
+
+_We move in next weekend – stay tuned for photos, etc._
