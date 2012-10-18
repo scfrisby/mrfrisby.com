@@ -4,34 +4,61 @@
     <meta charset="utf-8">
     <title>Mr Frisby
     </title>
-    <link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="STUART FRISBY IS A DESIGNER BASED IN AMSTERDAM">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Fredericka+the+Great">
+    <meta name="viewport" content="width=device-width">
+    <link rel="alternate" href="http://mrfrisby.com/syndicate.xml" type="application/rss+xml" title="Stuart Frisby is a designer based in Amsterdam">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic">
     <link rel="stylesheet" href="/css/base.css">
-    <link rel="stylesheet" href="http://goo.gl/kwdLC">
+    <link rel="stylesheet" href="/css/entry.css">
     <link rel="stylesheet" href="/css/720_grid.css" media="screen and (min-width: 720px)">
     <link rel="stylesheet" href="/css/986_grid.css" media="screen and (min-width: 986px)">
+    <link rel="shortcut icon" href="mrfrisby.com/icon.png">
   </head>
   <body class="grid">
-    <header>
-      <div class="inner"><small>STUART FRISBY IS A DESIGNER BASED IN AMSTERDAM</small>
-        <h1>Mr Frisby</h1>
-      </div>
+    <header><small>Stuart Frisby is a designer based in Amsterdam</small>
+      <h1><span class="m">M</span><span class="r">r</span><span class="fris"> Frisb</span><span class="y">y</span></h1>
     </header>
     <div id="content">
       <section class="contents row">
-        <div class="slot-6-7-8">
+        <div class="slot-6-7-8 contents">
           <h1>Journal Entries</h1>
           <ol>
-            <li><span class="date"></span><a href="/articles/hello-world/">Hello World</a></li>
-            <li><span class="date"></span><a href="/articles/hello-world-copy/">Hello World</a></li>
-          </ol>
+            <li><span class="date">Sep 17</span><a href="/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/">You can tell a lot about a man from his unread email count</a>
+            </li>
+            <li><span class="date">Jul 9</span><a href="/articles/simple-keyboard-navigation/">Simple keyboard navigation</a>
+            </li>
+            <li><span class="date">May 7</span><a href="/articles/the-baseline-has-shifted/">The Baseline has Shifted</a>
+            </li>
+            <li><span class="date">Jun 11</span><a href="/articles/delight-as-a-differentiator/">Delight as a Differentiator</a>
+            </li>
+            <li><span class="date">Apr 11</span><a href="/articles/inches/">Inches</a>
+            </li>
+            <li><span class="date">Mar 17</span><a href="/articles/instaface/">Instaface</a>
+            </li>
+            <li><span class="date">Mar 2</span><a href="/articles/booking-com-one-year-in/">booking.com — One Year In.</a>
+            </li>
+            <li><span class="date">Dec 27</span><a href="/articles/2012/">2012</a>
+            </li>
+            <li><span class="date">Dec 19</span><a href="/articles/iphone-top-5/">iPhone top 5</a>
+            </li>
+            <li><span class="date">Nov 27</span><a href="/articles/murder-in-the-city/">Murder in the City</a>
+            </li>
+          </ol><a href="archive.html" id="archive" class="view_more">Archives</a>
         </div>
-      </section><a href="archive.html" id="archive">Archives</a>
+        <div class="slot-9 profile">	<img src="http://mrfrisby.com/stu.png"></div>
+      </section>
+      <section class="row">
+        <div class="slot-6 instagram"></div>
+        <ul class="slot-7-8-9 tweet"> 
+          <li><span></span><a href="http://twitter.com/stuartfrisby" class="twitters">Join me on the twitters </a></li>
+        </ul>
+      </section>
     </div>
-    <footer>
-      <div class="inner">
-        <p>&copy; 2012 Stuart Frisby</p>
-      </div>
-    </footer>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"> </script>
+    <script src="/js/rm.js"> </script>
+    <script>
+      $(document).ready(function() {
+       $('.instagram').embedagram({});
+      });  
+    </script>
   </body>
 </html>

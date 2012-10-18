@@ -2,31 +2,527 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mr Frisby</title>
-    <atom:link href="http://localhost:8888/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8888</link>
-    <description>STUART FRISBY IS A DESIGNER BASED IN AMSTERDAM</description>
-    <pubDate>Tue, 31 Jan 2012 15:00:00 +0100</pubDate>
+    <atom:link href="http://mrfrisby.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://mrfrisby.com</link>
+    <description>Stuart Frisby is a designer based in Amsterdam</description>
+    <pubDate>Tue, 27 Dec 2011 15:00:00 +0100</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:8888/articles/hello-world/</link>
-      <pubDate>Tue, 31 Jan 2012 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:8888/articles/hello-world/</guid>
+      <title>2012</title>
+      <link>http://mrfrisby.com/articles/2012/</link>
+      <pubDate>Tue, 27 Dec 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/2012/</guid>
       <author></author>
-      <description>&lt;p&gt;This is an example of how you can set up a blog with RSS, and an archive using Wintersmith. If you want a bare bones example check out the site in &lt;code&gt;examples/basic/&lt;/code&gt; in the repository root or use &lt;code&gt;wintersmith new &lt;path&gt; --template basic&lt;/code&gt; when creating a new site.
+      <description>&lt;p&gt;Whilst I haven&apos;t given up all hope of being selected for the Great Britain and Northern Ireland Olympic football team for London 2012, I thought I would assemble some additional thoughts &amp; aims for the coming year–if only to provide reference as to the extent of my failures to look back on in glorious self-loathing.
 
+&lt;/p&gt;
+&lt;h4&gt;Stay Home&lt;/h4&gt;
+&lt;p&gt;This year I have flown around the world twice &amp; have crossed the English Channel twelve times. I hope next year to travel a lot less. I am tired, I&apos;m sick of airports and I&apos;m fed up of sleeping in unfamiliar beds. I&apos;d rather spend weekends getting to know Amsterdam better, not visiting – and thus being reminded of all of my many reasons for wanting to leave – England.
 
+&lt;/p&gt;
+&lt;h4&gt;Be Less&lt;/h4&gt;
+&lt;p&gt;My gluttony, laziness &amp; lack of consideration for this–my only vessel has scaled new heights in 2011; I hope to eat less, weigh less, exercise more and generally take better care of myself. I don&apos;t quite know what that means in practical terms yet.
+
+&lt;/p&gt;
+&lt;h4&gt;Make Stuff&lt;/h4&gt;
+&lt;p&gt;I want to write more music, make more bits of internet &amp; become better at doing both. I have a couple of side-projects lined-up which I hope will provide adequate creative outlet. I keep lamenting my lack of tactile skills, maybe that is something I can fix too.
+
+&lt;/p&gt;
+&lt;h4&gt;Get Hitched&lt;/h4&gt;
+&lt;p&gt;In December Victoria &amp; I will be getting married, the year will therefore be full of plans and bills and the build up to the big, awesome day. We have chosen a venue, have a vague plan for our day and will be figuring out all of the details in the coming months. I know this is going to be a stressful, expensive and fraught process &amp; so remembering why we are getting married and that it is a joyous and amazing thing to do is definitely something I have to continue to do.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Amsterdam (1)</title>
+      <link>http://mrfrisby.com/articles/amsterdam-1/</link>
+      <pubDate>Sun, 24 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/amsterdam-1/</guid>
+      <author></author>
+      <description>&lt;p&gt;We left New Zealand just two weeks ago and already in retrospect it feels like our two years there were just a few short months punctuated by notable events. The same happened when I left Japan after a year there, the immediate and absolute change in your surroundings rips from you all of the mental cues which form the conduits to your fondest and least fond memories of places and the people and events which have inhabited them during your time in a country or a city. I miss Wellington as I miss Fukuoka, but of the latter what I miss the most is remembering it well enough to miss it properly.
+
+&lt;/p&gt;
+&lt;p&gt;So with New Zealand behind us and Europe at our feet we are slowly adjusting to the long spring evenings, our temporary accommodation &amp; all of the usual trials which come from living in a country where you don&apos;t speak the language or have much knowledge in the way of its culture and history. Our coming here happened quickly enough that it barely felt like it was actually happening before it actually did; and so practical concerns such as the ease with which one can distinguish meat products in a supermarket, to the rules of being a pedestrian in a city made for cyclists have been unfolding on an ad-hoc basis for the last fourteen days. It&apos;s all bloody exciting, and with beautiful Amsterdam as backdrop the incentive for integrating into this society is obvious and appealing. We are back in the warm embrace of Europe, with old buildings, old cultures and all of the things which in so lacking made New Zealand an always temporary home. We feel very much like we&apos;ve come home and that this could be the place we have children and live and work for a considerable number of years.
+
+&lt;/p&gt;
+&lt;p&gt;In more immediate news we have found an apartment in Rivierenbuurt, one of the southern parts of the city from where I&apos;ll be able to commute easily to work on foot or by bike. It&apos;s a third-floor apartment in a 1930s house on a quiet street. It has the all important second bedroom with which we will be able to host frequent visitors from England - The first three of which we&apos;ve already excitedly penned in - big rooms, big windows and feels every bit like the grand old place that we hoped we&apos;d be able to find in our price range. It will provide the perfect base from which we will get to know our new hometown, will provide a quiet study environment for Victoria when she starts her masters later in the year &amp; is just the sort of place I&apos;d always imagined going home to after a day at the office. We&apos;ve increased our floorspace by about 100% compared to our place in Wellington whilst being just as close to the action and the office.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We move in next weekend – stay tuned for photos, etc.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>A Bicycle</title>
+      <link>http://mrfrisby.com/articles/a-bicycle/</link>
+      <pubDate>Sat, 30 Jul 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/a-bicycle/</guid>
+      <author></author>
+      <description>&lt;p&gt;When I lived in Fukuoka I used to zip around on a little city bike, it was white - really white - and so I named it (as a football geek would) after Andrés Iniesta, the pale impresario at the heart of the Barcelona &amp; Spain midfield. 
+
+&lt;/p&gt;
+&lt;p&gt;Andrés was a great little bike, and being in Japan meant that I was never in danger of being maimed by a passing car or having my bike stolen from some far-flung outreach of the city. I would just jump on it of an evening and ride off in one direction or another, ending up in places which the few foreigners in the city rarely visited. I&apos;d cycle through suburban neighbourhoods and out of town retail complexes, to fishing outposts and motorway intersections none of which I could tell you the names of. It was on my bike that I saw the best of Fukuoka, and through cycling that I was able to enjoy Japan properly, watching it pass by me, passing by it &amp; being a part of a giant, moving ecosystem of people and machines.
+
+&lt;/p&gt;
+&lt;p&gt;And so here I am in Amsterdam - the European Capital of the bicycle - and I&apos;ve only just got around to buying a bike, and I&apos;ve yet to ride it anywhere I haven&apos;t needed to go. For Amsterdam is not quite the same as Fukuoka, one isn&apos;t part of an ecosystem here so much as a rusting nail in an violent sea of rusting nails, all scraping against each other and vying for top spot and causing harm, and popping tyres and severing arteries. Trams &amp; tramlines, throngs of camera-toting tourists,stupid scooters and their moronic-drivers, one gets the feeling that Amsterdam is designed not for cyclists, but for a transportationary conflict designed to extinguish all but the victorious. And so I&apos;ve yet to venture south of home in the direction of the sprawling-flats on North Holland, I&apos;ve yet to cross the Amstel in east to explore. I have however decided upon a new name for my new bike. As white as Andrés was, my new bike is black. And so whilst fearing some sort of racial faux-pas I have decided to name this bike after a black footballer - and could think of no more enjoyable a name to utter than that of the DR Congo &amp; former Newcastle United striker; Lomana LuaLua. I&apos;ll be calling him LuaLua for short.
+
+&lt;/p&gt;
+&lt;h5&gt;Other candidates were (in alphabetical order):&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Didier Drogba&lt;/li&gt;
+&lt;li&gt;Danger Fourpence&lt;/li&gt;
+&lt;li&gt;Kazenga LuaLua&lt;/li&gt;
+&lt;li&gt;Peter Ndlovu&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>booking.com — One Year In.</title>
+      <link>http://mrfrisby.com/articles/booking-com-one-year-in/</link>
+      <pubDate>Fri, 02 Mar 2012 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/booking-com-one-year-in/</guid>
+      <author></author>
+      <description>&lt;p&gt;I wrote a year ago about the process of interviewing with &lt;a href=&quot;http://booking.com&quot;&gt;booking.com&lt;/a&gt; &amp; have managed to mention little of what its been like to actually work here for the past twelve months. I get lots of traffic coming my way from people trying to find out what it&apos;s like to do my job, and so I figured I&apos;d talk a little bit about what we do, and the philosophy which I think sets us apart from lots of other companies operating at our scale on the web, maybe this&apos;ll be a better source of information than my post from last April.
+
+&lt;/p&gt;
+&lt;p&gt;Coming from agency-land, and having worked for clients for the entirety of my short career, I was excited at the prospect of having a direct connection with the people interacting with my work, and that has proven to be a continuously motivating factor in my role with booking.com. We - the front-end team of approximately 60 people - have a sharp, constant focus on our users. Everything we seek to do is aimed at making the experience of using our website measurably better for our customers. We have a common language which encourages us to constantly reflect on a single question, &apos;How does this help our users?&apos;. Note that the question isn&apos;t &apos;How does this make us more money?&apos; - Whilst money is of course a key measurement for success, our focus is on making improvements to the user experience which in turn make our users happier &amp; more loyal. We could come up with a thousand ideas to increase revenue tomorrow, but we are encouraged to be cognisant of the distinction between short-term gains, and long-term improvements. When we assess and critique ideas from the perspective of the user, we are able to differentiate between the two, and be the advocates for our millions of customers.
+
+&lt;/p&gt;
+&lt;p&gt;And behind that mass of users for whom we aim to please is a mass of data to which we - designers, developers, product owners - are given free access. We operate at a scale where we are very quickly able to see if what we&apos;re doing is an improvement, and we encourage and are encouraged to be mindful, commercially focused and vigilant. Throughout my pre-booking.com career I was used to creating work to a brief, with no access to the end users, and no opportunities to measure if what I&apos;d done had actually made a positive difference. I would fall-back on the knowledge I&apos;d gained from blogs and books and experience and expertise. Luckily I no longer have to do that, and I say luckily because I know now that in the vast majority of cases, I was wrong. I still am. I&apos;m wrong the majority of the time. Once I&apos;d have called myself an expert, now I&apos;m constantly aware of how little I - or anyone - really knows about how people behave on the web, what they do and don&apos;t understand, like, enjoy and delight in. I&apos;m wrong more often than I&apos;m right, and yet somehow I still haven&apos;t been shown out of the building…
+
+&lt;/p&gt;
+&lt;p&gt;We embrace failure like an over-enthusiastic grandma embraces her favourite grandson, for every failure is a deposit in a vault of knowledge. Every failure is a step towards a subsequent success, or a debunking of a popular belief, and at best a raised middle-finger to our industry&apos;s all-too-many &apos;experts&apos;. But failure isn&apos;t our goal, learning is. Failing for the sake of failing would be stupid, failing so that you can later succeed is brilliant, especially when - as at booking.com - the endorsement of this kind of failure comes from the very top of the organisation.
+
+&lt;/p&gt;
+&lt;p&gt;My favourite thing about working at booking is that I&apos;m surrounded by an incredibly diverse group of people, most of whom - like me - moved to the Netherlands for their job, and who are chosen because amongst other things, they are passionate about the work they do. I used to be the only designer working on websites, and whilst that gives you great freedom, it also gives you an easy ride. I know that at booking.com I will be tapped gently on the shoulder when I&apos;ve overlooked something, or when I could&apos;ve done a better job. Our millions of users, and my front-end colleagues will see to that.
+
+&lt;/p&gt;
+&lt;p&gt;In terms of process, structure, pace and agility, booking is quite unlike most businesses of its size. There is no prescribed way of working, no defined set of tools, no rigid working hours. I rock up at 8:30 in the morning, others stroll in at 10:30. I use a notepad and a set of preposterously over-elaborate pens for wireframing, others use whiteboards, post-its and hallway conversations &amp; so long as you can push commits to a git repository, no-one cares what you crafted them with. Our large team is sub-divided into small teams of ~5 people, a mix of designers, developers, copywriters, product owners &amp; specialists (language specialists, statisticians, usability researchers, platform developers, psychologists, etc.) - that gives us a small, scrum-like style of work. We work quickly, innovate &amp; ideate quickly, and try not to build complex, rigid processes which put barriers between ideas and execution. Of course there is an ebb and flow, some days that works flawlessly, some days less so - we are always improving and monitoring our way of working, and with a growing team, always making adjustments which aim to make it as easy as possible for designers to design, developers to develop, and users to use our website.
+
+&lt;/p&gt;
+&lt;p&gt;All-in-all, working as a designer at booking.com has proven to be an eye-opening, challenging, rewarding experience - and one which continues to to be all three on a daily basis. I can&apos;t imagine there are many companies where a designer is given the privilege of serving so many users, and the freedom to serve them in whatever way suits them best.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Delight as a Differentiator</title>
+      <link>http://mrfrisby.com/articles/delight-as-a-differentiator/</link>
+      <pubDate>Mon, 11 Jun 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/delight-as-a-differentiator/</guid>
+      <author></author>
+      <description>&lt;p&gt;Living in Amsterdam (where I&apos;m very happy!), I&apos;m becoming accustomed to dreadful - or completely absent - customer service. There doesn&apos;t seem to be a correlation here between the quality of a product, and the service with which it&apos;s delivered. Some of my favourite restaurants are staffed by people verging on hostile, and it doesn&apos;t improve inline with cost.
+
+&lt;/p&gt;
+&lt;p&gt;At the low-end of most markets, the internet works in much the same way. Consider Ryanair: where the product and the way in which it is sold are perfectly congruous. You&apos;re treated on their website just like you&apos;re treated on their planes - packed in, confused into extra spending &amp; generally made to feel like a piece of abnormal-freight.
+
+&lt;/p&gt;
+&lt;p&gt;At the other end of the market, you have niche, luxury operators who know that the customer experience is end-to-end, from the first impression on their website, to the post-transactional communications. JetSetter.com is a good example of this kind of application of delight in an interface: High quality images, restrained UI elements, space &amp; a gentle, assured tone of voice. A website sets an expectation for the experience to follow. JetSetter.com treats you like a valued and respected individual, just like a diligent concierge at the sort of high-class hotel you&apos;ll find on the site.
+
+&lt;/p&gt;
+&lt;h2&gt;But what about the wide middle?&lt;/h2&gt;
+&lt;p&gt;The vast majority of companies exist somewhere between these two poles, serving varied product to varied customers - and requiring such in order to prosper. For these businesses, delightfulness in a user interface can become a key differentiator which elevates it above the competition who default to the ordinary, and fail to delight. Given the choice of two stores selling the same range of products, would you chose the one staffed by the ryanair-esque shopkeeper, or the jetsetter-like assistant? Your UI is your shopfront and your shopstaff. It&apos;s the language with which you talk to your customers, the space you give them to make a decision, the gentle hand in the right direction at the right moment that turns an average user experience into an enjoyable one. And it&apos;s my belief that people will always gravitate towards the companies and services which treat them well and make them feel empowered, not embarrassed. The effect might be magnified as the purchase price goes up, but even when you&apos;re spending €5 on a paperback, you&apos;d sooner do it in a beautiful old book store than a soulless warehouse.
+
+&lt;/p&gt;
+&lt;p&gt;The challenge for UX designers is to figure out how to find this balance, to offer an appropriate experience inline with the full gamut of products on offer - to optimise for sales, and build for delight. To build something which adds to even the most high-cost purchase, and can massively elevate the experience of buying the most mundane, inexpensive goods.
+
+&lt;/p&gt;
+&lt;p&gt;And surely this truth is universal. Surely everyone wants to be treated well, people&apos;s ability to recognise good customer experience when online may be less established than in a physical store - but that&apos;s only going to improve. People are going to be more able to distinguish between Ryanair.com &amp; JetSetter.com, not less, and why would anyone knowingly choose that which makes them less happy?
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pixels are cheap. We as web designers are the worlds most empowered architects of retail spaces. Let&apos;s build beautiful places where people like to spend their time.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Desk</title>
+      <link>http://mrfrisby.com/articles/desk/</link>
+      <pubDate>Sat, 30 Jul 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/desk/</guid>
+      <author></author>
+      <description>&lt;p&gt;With a few days off from work I&apos;ve finally found time to sort out somewhere other than the dining table from which to work. Still in the dining room, and for the timebeing still sitting on a dining chair, but I do now at least have somewhere to put all of my tat, and to keep the laptop and iThingies.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://images.instagram.com/media/2011/05/31/2630ade1501945fb97d8209e6c487d02_7.jpg&quot; alt=&quot;Desk&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>England, Part 3</title>
+      <link>http://mrfrisby.com/articles/england-part-3/</link>
+      <pubDate>Sat, 29 Oct 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/england-part-3/</guid>
+      <author></author>
+      <description>&lt;p&gt;We just got back from a week in England. The first time I&apos;ve spent any real time there since leaving for New Zealand having returned from Japan in 2009 &amp; 2008. It was lovely being there, seeing my old hometown, seeing my grandparents and youngest sister on the eve of her return to the antipodes. It was lovely too to be surrounded (albeit in large part from the warm asphlat of the M1, M6, M42 &amp; M69) by British countryside in autumn, with the colours turning and the air crisp. It was lovely. Bit easy though…
+
+&lt;/p&gt;
+&lt;p&gt;The nice thing about being in another country (and more specifically one where the native tongue is not English) is that everything becomes just a little bit more of a challenge. Here in the Netherlands I can justify being a little bit lazier because everything requires a little more brain work. I can convince my weak, shallow mind that sitting in front of the television is a cultural and linguitic education of enormous worth. I can write off evenings spent in the local pub or scoffing at the nearest restaurant as time and money well spent immersing oneself in the locale and its folk. I can do everything here I can do in England, but be a little less self-loathing in doing it. And that sounds like a very small deal, but for someone inherantly lazy — but curious — that makes life significantly easier, and loads more interestinger.
+
+&lt;/p&gt;
+&lt;h4&gt;That being said, here are a few things I would like to import in bulk to Amsterdam:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ginsters Cornish Pasties (I know, but what a way to go!)&lt;/li&gt;
+&lt;li&gt;GMT (staying up until the wee hours for Match of the Day &amp; Newsnight is an affront)&lt;/li&gt;
+&lt;li&gt;The Guardian (I still can&apos;t quite make that final 5% of the jump to digital only news)&lt;/li&gt;
+&lt;li&gt;The red button. We saw Elbow from Manchester Cathedral a few nights ago, what a treat.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>From Xero to Hero</title>
+      <link>http://mrfrisby.com/articles/from-xero-to-hero/</link>
+      <pubDate>Mon, 28 Feb 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/from-xero-to-hero/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; My thanks to Philip from Xero for adding a comment to this blog post, and then sending me his feedback from the interview process yesterday afternoon. I&apos;d like to add that I think the Xero guys do a fantastic job and that I wish them every success in their search for more fantastic people, and their progress to the top table of web applications - they do great work and my experiences in the process I outlined below are I&apos;m sure anomalous to the way the company operates in general terms.
+
+&lt;/p&gt;
+&lt;p&gt;Having decided a couple of months ago that I would begin to look for a new challenge in my professional life, I had dealings with two companies with whom positions were available for someone fitting my broad description. Those two companies were Xero, and booking.com, and I&apos;d like to just offer here a comparison of the processes I encountered with the two organisations.
+
+&lt;/p&gt;
+&lt;p&gt;nb: I should say at the outset that I have been offered and have accepted a job at booking.com, though I hope that fact does not get in the way of my accurate reporting of my experiences with both companies. I appreciate that I could seem embittered by my experiences; I have made deliberate efforts to offer a factual representation of events, and my considered opinion as to their significance.
+
+&lt;/p&gt;
+&lt;p&gt;I learnt that Xero were looking for design staff through twitter, and made arrangements with the head of the design team to drop in to their Wellington office to have an initial, informal chat about what I was looking for, my processes and philosophies and what xero were looking for in the role they were seeking to fill. It was a pleasant chat, I talked about my work for my current employer, the key tenets of my professional outlook and the things I consider important for my satisfaction in my work. I guess it must have gone well since the folks at xero next asked me to do some spec work for them in the guise of a practical test of my skills.
+
+&lt;/p&gt;
+&lt;p&gt;The task was two-fold: Conduct some research into the xero product and offer feedback as to what did and didn&apos;t work with the site and product, and then propose an overhaul of a single page within the xero application using wireframes, sketches or design work as I saw fit. I was reluctant to agree, spec work being spec work, but decided that the potential position at the end of the process would be worth the unease I&apos;d feel at completing work for xero without any form of compensation.
+
+&lt;/p&gt;
+&lt;p&gt;In all I spent about eight hours completing the task.
+
+&lt;/p&gt;
+&lt;p&gt;I submitted interactive sketches notated with my thinking, block level wireframes outlining the key aspects of my approach and my report on the xero site. I waited a while for feedback and after a bit of discussion was asked to do a further piece of work, this time a more complete design piece for the same page of the xero product at the centre of the previous task. Again, I was reluctant. Purely from the point of view of fitting this stuff in around my busy job and busy life was tricky - but again the increasingly more likely prospect of securing a position with a company so feted for ‘doing things right&apos; was too big a lure to ignore. I spent another eight or so hours working on design work, which I submitted a few days later to the Head of Design at Xero. I didn&apos;t hear anything back for a while, and followed up, keen to make sure that my 16 hours of work was indeed being appraised and that a process was ongoing within Xero which I hoped would lead to my being offered a job, or at the least being invited for a further, formal interview.
+
+&lt;/p&gt;
+&lt;p&gt;A couple of weeks passed and I got an email from the Head of Design at Xero to inform me that they would not be continuing with the process due to ‘some concerns&apos;, and that they would be ‘happy to provide some feedback at to what they were should I wish&apos;. I was surprised to say the least, having been very generous with my time and having submitted a high quality of work on a blind task. I asked for the afore mentioned feedback; suggesting that I should like to know what areas they felt I could improve upon, as much for my professional progress as anything else. That feedback failed to materialise despite my following up on that offer on at least two further occasions.
+
+&lt;/p&gt;
+&lt;p&gt;To say the process left a sour taste would be an understatement, and I should have listened to the conventional wisdom which suggests one should never work for free, even if there is a potentially lucrative position at the end of it. I should have inferred from the request that this company - a shining light in the New Zealand digital industry - were perhaps less than I had expected in that regard. I was however accepting of the decision. Sometimes you&apos;re just not a good fit, or your technical styles aren&apos;t a good match for an organisation, or any number of acceptable and understandable and often sensible reasons.
+
+&lt;/p&gt;
+&lt;p&gt;What I don&apos;t accept however is that having occupied my time and effort in 16 hours of free work - plus the additional time spent attending the informal interview - is that it is too much to expect the courtesy of an email explaining why at the summation of that process it had been decided that I was not a good fit for the organisation. That strikes me as being a pretty shoddy way of operating, and not something one would expect if they were - as I am - familiar with the image Xero portrays of itself as an organisation and an employer. An email was the least I could expect in return for my considerable effort. I didn&apos;t get one, I didn&apos;t get anything from Xero at all. The next I saw of them was at Webstock where they would be again on the lookout for design staff who would no doubt also be asked to give up a slice of their free time for the same process to which I now feel unfortunate to have consented.
+
+&lt;/p&gt;
+&lt;p&gt;Having moved on from that rather souring experience, I decided for a number of personal and professional reasons that my next career move would be back in Europe, and put the feelers out across my professional network for potential roles in that part of the world. I was invited to submit my CV to booking.com where positions were available and after sitting for a phone interview with two members of the technical team was invited to fly to Amsterdam to interview formally for the position.
+
+&lt;/p&gt;
+&lt;p&gt;In all I had three interviews, two concentrating on my technical abilities as they related to the specific job, and my suitability in working in the unique environment of the company. The third interview was with one of the directors, focusing on how I would fit into the business and offering a glimpse into how it operated. I spent three days at the company&apos;s expense in Amsterdam, and flew back to New Zealand with a job offer in hand and enthusiastic about working for a company which had seemed at every point to be operating in a respectful, sensible manner to even those people who weren&apos;t yet on the payroll.
+
+&lt;/p&gt;
+&lt;p&gt;To say that the two processes were miles apart would be to understate the distinction. Booking.com treated me throughout the process as a skilled individual who could add value and expertise to their team, and treated the interview process as an opportunity to examine how I as a person would fit into their organisation.
+
+&lt;/p&gt;
+&lt;p&gt;The feeling was that whilst I could prove easily that I had the technical ability to do the job, mentality was an equally important consideration for booking.com in making their hiring decisions. With Xero the process seemed to concentrate entirely on the technical aspects of the position available; obsessing over the minutiae and ignoring the fact that someone who has been working in our industry for a decade is able to adapt, and that what is actually important is if that person is passionate about their profession and wants above all else to do great work.
+
+&lt;/p&gt;
+&lt;p&gt;Without the privilege of knowing what Xero&apos;s reservations in hiring me were I can only speculate, but I would suggest that given the nature of the hiring process I outlined above, it could only be of some technical consideration which I contest to the importance of. I&apos;m not so old a dog &amp; in our field of work one is always learning new tricks. That is why this is such a great profession to be in - to be constantly learning, improving and progressing. I have said in previous posts here that as far as I&apos;m concerned an organisation should be looking for the best people they can find, wherever and whatever they happen to be. Without wanting to seem cocksure and immodest, I&apos;d suggest Xero might have missed a trick in my case.
+
+&lt;/p&gt;
+&lt;p&gt;That all being said, I&apos;m delighted, thrilled and really quite excited to be leaving Wellington for Amsterdam and starting a new job with a company who impressed me so greatly in the hiring process. I always think that treating people (staff, suppliers, customers, employees) right is half of the battle for any business; it speaks volumes for a potential employer when they treat their prospective employees with the respect that I was shown in Amsterdam. I&apos;d suggest that Xero could learn a lesson or two from the likes of booking.com if they truly aspire to be held in that same regard. If they really want to attract the most talented people from all over the world, they need to have better processes in place to (a) not insult them with the kind of shoddy treatment I&apos;ve talked about here, and (b) to deal with those who aren&apos;t a suitable fit for the company in the correct, respectful manner which they are right to expect.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Inches</title>
+      <link>http://mrfrisby.com/articles/inches/</link>
+      <pubDate>Wed, 11 Apr 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/inches/</guid>
+      <author></author>
+      <description>&lt;p&gt;There was a time, as recently as fifteen years ago when sites were constructed based on a small set of assumptions. That your browser window was set to a specific set of dimensions, that you were using a specific browser. You&apos;d be greeted with a message informing you that &apos;this site is best viewed in Internet Explorer 5 at a screen resolution of 1024x768&apos;. You could still access the site using Netscape, and if you dared use a different size viewport, you wouldn&apos;t be kicked back to &lt;a href=&quot;http://lycos.com&quot;&gt;lycos&lt;/a&gt;, but your experience might be degraded somewhat.
+
+&lt;/p&gt;
+&lt;p&gt;And so here we are, in the year of our Lord 2012 - and guess what? It got worse. Instead of using screen resolution and UA string as the determining factors for a customer experience, we&apos;re using inches. And even worse than that - you very often can&apos;t opt out anymore.
+
+&lt;/p&gt;
+&lt;p&gt;You&apos;re using a 9 inch tablet - Oh, then you definitely want our tablet site &amp; since you&apos;re here, why don&apos;t we shove our wholly superfluous iOS app down your throat. It&apos;s like the website, only infuriatingly different.
+
+&lt;/p&gt;
+&lt;p&gt;Should you deign then to try and access the same site later that same day on your android phone, you&apos;re going to get another experience - another website, another app - a site where we assume based on the girth of your device that you only need a portion of the features from the main site, which we&apos;re going to make it hard for you to find and use. We&apos;re also going to throw out all of the conventions you&apos;ve come to understand - colour, form, proportion, workflow. You&apos;re going to have to embrace chaos to get the job done - you&apos;re going to have to work harder than you did in 2001 to perform the same set of simple tasks.
+
+&lt;/p&gt;
+&lt;p&gt;How far can this madness go? How many inch ranges can we identify which we can use as justifications for whole new customer experiences? Do we need a site which is crafted for your 42 inch TV, your 90 inch projector screen, your dual 30 inch monitors? There&apos;s a big screen at Wembley stadium which must measure in the hundreds of inches - are you going to build an app for that too? Do we need an app for every platform, or two apps, or an app per platform per form factor per orientation? Where does this madness end?
+
+&lt;/p&gt;
+&lt;p&gt;How can you hope to deliver a consistent, predictable end-to-end, multi-screen experience to your user base if you change the furniture every time they look into your house through a different window? How hard do your users have to work to find the same piece of task-critical information on all of the devices you purport to support? And there&apos;s the crux of the issue: with your inch-based platform strategy - what are you supporting - users, or devices?
+
+&lt;/p&gt;
+&lt;p&gt;The internet will win. I&apos;m going all in on that belief. That in the vast, overwhelming majority of cases - the internet is enough. That HTML, CSS &amp; JavaScript will see you home. That a core platform built on the core premise of a single, unified customer experience is best realised through these technologies, and through whichever browser/OS/Viewport size you use. The internet doesn&apos;t care how wide your device is, how tall it is, which version of whichever operating system you&apos;re using. The internet is built for the full gamut of devices, people, cultures &amp; conventions. (Responsibly) Responsive design is the shining example of this theory made true in an increasingly diverse device-ecosystem, but it isn&apos;t a black sheep, this is what the internet has always been for. Let&apos;s not try and retrofit unity across platforms, let&apos;s embrace the single platform which is the internet and be smart about giving an equitable user experience to everyone who rocks up at our front door, regardless of who they are.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Instaface</title>
+      <link>http://mrfrisby.com/articles/instaface/</link>
+      <pubDate>Sat, 10 Mar 2012 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/instaface/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;strong&gt;All of the whining on twitter over the FB/IG deal has cemented my thinking on the way I want to use these types of online services. I see people scrambling to backup their Instagram accounts or even shut them down, because presumably they think that facebook can determine persuasion profiles based on faux-fifties-photo-filter preferences.&lt;/strong&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Here&apos;s the way I think of Instagram: It&apos;s the easiest way for me to take photographs on my phone, have them synced to my dropbox, populate an album on my Picasa account, post them to a Facebook album, tweet a link to them and post them to a page on my website. When I hit the share button in the Instagram app on my phone, an incredibly complicated sequence of events take place which seeds my silly little photo to an array of places from which I can derive some value, some enjoyment from them. That could change tomorrow, but because I value the photographs I take as petty records of time well spent, I have them. Physically have them. They&apos;re mine. The rack of servers through which they pass on their way to being liberated is irrelevant, and easily changed. I don&apos;t care that they also reside on the servers of Instagram, Facebook, Google &amp; Dropbox.
+
+&lt;/p&gt;
+&lt;p&gt;I think if you care about having absolute control the content you&apos;re creating with an application, you should definitely not be renouncing ownership and guardianship of it to anyone who isn&apos;t you. Crying foul when a company is under new ownership is idiotic. Why should you trust Instagram any more than you do Facebook? If you really cared, you&apos;d never use a third-party service, or you&apos;d already be treating these services as mere conduits for content creation and liberation, regardless of who owned them. I know it&apos;s cool to bash Facebook, to assume nefarious intent. But the size of a company is not a proxy value for their trustworthiness. North Korea is a minnow in the population stakes, but is at the top table in the cuntery charts, who is to say that the same isn&apos;t true for the makers of Instagram? I know nothing about them, I&apos;m not willing to entrust them with anything of importance to me anymore than I am facebook.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Don&apos;t let your snobbery get in the way of your objectiveness. Be consistent, or be quiet.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iPhone top 5</title>
+      <link>http://mrfrisby.com/articles/iphone-top-5/</link>
+      <pubDate>Mon, 19 Dec 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/iphone-top-5/</guid>
+      <author></author>
+      <description>&lt;h2&gt;Music+&lt;/h2&gt;
+&lt;p&gt;A very close relative of the built-in Music app with a single feature which justifies it being its replacement - last.fm scrobbling. I&apos;ve been using audioscrobbler/last.fm for long enough that this is a really big deal.
+
+&lt;/p&gt;
+&lt;h2&gt;Instagram&lt;/h2&gt;
+&lt;p&gt;The best iPhone application. I know people get all prissy about the silly filters and the silly tilt-shifting, but for someone with zero photographical talent – instagram is the perfect photo app.
+
+&lt;/p&gt;
+&lt;h2&gt;Viber&lt;/h2&gt;
+&lt;p&gt;I can call, text &amp; picture message my family in New Zealand, my friends in Japan, and the poor bastards stuck in England for free. For Free. And it looks &amp; works like a native app (this is why it&apos;s better than WhatsApp) it integrates with your address book, it rings, it&apos;s cracking.
+
+&lt;/p&gt;
+&lt;h2&gt;Reeder&lt;/h2&gt;
+&lt;p&gt;Because I&apos;m an internet old-guy by now I obviously have a massive list of RSS subscriptions which I have entrusted to uncle Google. Reeder is the best RSS reeder I&apos;ve used on the iPhone, and is more enjoyable even than the very accomplished OS X version.
+
+&lt;/p&gt;
+&lt;h2&gt;Twitter&lt;/h2&gt;
+&lt;p&gt;Yeah, the new one. I like it. I like it more than the previous version. I rarely send direct messages &amp; have found myself using twitter on my phone more since the update.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Kneejerk</title>
+      <link>http://mrfrisby.com/articles/kneejerk/</link>
+      <pubDate>Mon, 11 Jul 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/kneejerk/</guid>
+      <author></author>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Everyone watching these horrific actions will be struck by how they were organised via social media. Free flow of information can be used for good, but it can also be used for ill. So we are working with the Police, the Intelligence Service &amp; industry to look at whether it would be right to stop people communicating via these websites &amp; services when we know they are plotting violence, disorder and criminality.
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;David Cameron MP, Prime Minister of the United Kingdom, August 11th 2011&lt;/cite&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Lua Lua</title>
+      <link>http://mrfrisby.com/articles/lua-lua/</link>
+      <pubDate>Mon, 01  Aug 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/lua-lua/</guid>
+      <author></author>
+      <description>&lt;h6&gt;The afore mentioned bicycle during today&apos;s ride down the Amstel&lt;/h6&gt;
+&lt;p&gt;&lt;img src=&quot;http://mrfrisby.com/entries/assets/15/lualua.jpg&quot; alt=&quot;Lua Lua&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Murder in the City</title>
+      <link>http://mrfrisby.com/articles/murder-in-the-city/</link>
+      <pubDate>Sun, 27 Nov 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/murder-in-the-city/</guid>
+      <author></author>
+      <description>&lt;iframe src=&quot;http://player.vimeo.com/video/32739005?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;500&quot; height=&quot;325&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;            </description>
+    </item>
+    <item>
+      <title>New Zealand, 2009-2011</title>
+      <link>http://mrfrisby.com/articles/new-zealand-2009-2011/</link>
+      <pubDate>Wed, 13 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/new-zealand-2009-2011/</guid>
+      <author></author>
+      <description>&lt;p&gt;When Victoria and I left The UK for New Zealand in June of 2009 we planned to spend two or three years there, but beyond that – and the offer of a place to stay with my parents – we had no idea what we would do, where we would go, or what would come of us. I had gone to New Zealand with a tentative job prospect which subsequently fell through due to a complete lack of competency on the part of the New Zealand Immigration Service and a matching degree of stupidity and short-sightedness from my would be employer. It turned out to be a blessing in a rather cunning disguise.
+
+&lt;/p&gt;
+&lt;p&gt;With that opportunity gone we decided to move to Karamea on the North-Western shoulder of the South Island where we lived and worked at Rongo Backpackers, a place situated in an almost preposterously beautiful part of this preposterously beautiful country. We spent three months living there, helping out at the backpackers, revelling in the Radio Station and doing our bit to make Rongo Backpackers one of the most incredible places you&apos;ll ever visit.
+
+&lt;/p&gt;
+&lt;p&gt;Our time there came to its end and so three months after our arrival we flew back to my parents place in the Bay of Plenty and enjoyed a few months there on the beach - sharing the waters with school sharks, active volcanoes &amp; dolphin royalty. The next stop on our journey was a move to the nation&apos;s capital city, Wellington. We&apos;d passed through on our journey down south and felt confident it was our kind of place, a good food city with a great museum all overlooking a great body of water, the similarities to our beloved Liverpool were pretty self-evident, and very appealing. I got a job working at NV Interactive, a digital agency working with a broad base of New Zealand clients, from the online home of the national cricket team through to heritage kiwi brands and small businesses. I had a good year at NV working with a number of very talented people (special mentions to Tim McConnell and Sam Langley with whom I had a great time working. We shared an outlook on the work we did and a passion for doing it well which made our working together a great experience for me).
+
+&lt;/p&gt;
+&lt;p&gt;The two major seismic events which shook Christchurch during the last twelve months had a big impact on the company - the main office being based in the Christchurch CBD - the second quake resulted in the demolition of the office, the displacement of a number of our colleagues, and in some cases the loss of lives amongst the large Canterbury contingent of NV Interactive&apos;s client base. It was a difficult time, but one which bought to the fore the great spirit of togetherness of New Zealand, it was very much a national event and it was incredible to see a country united in doing their bit to help their friends in Canterbury.
+
+&lt;/p&gt;
+&lt;p&gt;Disasters aside I left NV having made some important contributions to the business. I introduced an internal social network via which the two offices would be permanently connected, I initiated the companies first steps into a social media presence, helped establish the first style guide for writing CSS and through general pestering and persistence contributed towards the decisions to embrace HTML5 as our default authoring language &amp; to drop implicit IE6 support on all new projects. I also benefitted from being able to really hone my craft. I&apos;ve been doing this stuff a long time, but my year at NV was perhaps the first period where I had the time and resources to develop my understanding of HTML and CSS to a new level. I have become a more responsible and cultured writer of code and for the opportunity to do that I am most grateful. It would be remiss of me however to neglect to mention the more difficult aspects of my time with NV. The two office structure never really felt like it worked properly and we in Wellington (as the smaller, satellite office) were always on the back-foot when working cross office on big projects. It&apos;s something I know the guys are keen to improve upon, and I hope that happens because there is great potential amongst the awesome staff there to do incredible things, if only the processes and tools could be introduced to make that possible. The second tricky aspect of my role was that as a traditionally development focused agency, design was always a poor cousin to development, and that ethos spilt over into projects too frequently for my liking. A general apathy towards the theories of UX design, and a skepticism relating to the field made creating great interfaces a difficult task. I insisted upon a greater focus on lo-fi design work early in projects - wireframes, prototyping, interactive sketching, but the value of these tools were never truly understood as being the building blocks of a site. The disconnect between development, design and management of projects saw that these exercises were, more or less, futile. That does not however mean that I don&apos;t have a huge amount of respect and admiration for the team at NV Interactive, they&apos;re a fantastic bunch of people doing great work under difficult circumstances and I feel confident in suggesting that they are still set on becoming a big player in the web scene in NZ. That the company were awarded four finalists at their first foray into the ONYA Awards is testament to that fact and I hope I&apos;ll be seeing the company name pop up in all sorts of places over the coming years.
+
+&lt;/p&gt;
+&lt;p&gt;Having decided that it was time for a new challenge I flew out to Amsterdam in February to interview with booking.com, and here we are a few short months later in a hotel just south of the city, waiting to hear if we&apos;ve landed the apartment we like and planning our lives in this exciting European city with all of the museums, culture and history you could want in a hometown. I start work in the design team at booking.com on Friday, and I am looking forward to a long and happy stay in Amsterdam and with my new employers. It&apos;s an exciting step for me &amp; one which I believe is going to again help me to become a better designer.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Our New House</title>
+      <link>http://mrfrisby.com/articles/our-new-house/</link>
+      <pubDate>Wed, 01 Jun 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/our-new-house/</guid>
+      <author></author>
+      <description>&lt;p&gt;We&apos;ve finally moved into our lovely apartment in Amsterdam having spent our first couple of weeks in the Netherlands staying in a Serviced Apartment just south of the city.
+
+&lt;/p&gt;
+&lt;p&gt;We&apos;re now a lot closer to town, with my office just a brisk fifteen minute walk away &amp; all of Amsterdam&apos;s museums, restaurants and canals on our doorstep. We&apos;ve yet to get all of our stuff shipped over from New Zealand so the place is looking pretty sparse at the minute, but we were lucky to find somewhere furnished so we&apos;re not quite camping out. Anyway, here are a few photos of the apartment.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/1.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/2.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/3.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/3b.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/4.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/5.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/6.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/7.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/8.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/9.JPG&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/10.JPG&quot;&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;http://mrfrisby.com/entries/assets/9/11.JPG&quot;&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Responsiving</title>
+      <link>http://mrfrisby.com/articles/responsiving/</link>
+      <pubDate>Wed, 02 Nov 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/responsiving/</guid>
+      <author></author>
+      <description>&lt;p&gt;So, yesterday I deployed a half-arsed joke to my website for nothing more than shits and equal quantities of giggles (one must get their shiggle ratio right). My intention wasn&apos;t to offend or upset anyone, just to play a little practical joke on those people who are inclined to resize their browser window.                
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://goo.gl/BKFxT&quot; alt=&quot;&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Turns out that quite a lot of people thought it was funny, which was nice, I thought it was funny too. What it did show however is that for every ten normal, well-humoured adults with whom I am honoured to share a profession, there is one small-minded, humourless cretin just waiting to take everything way too seriously.&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;h4&gt;Here are some links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.reddit.com/r/web_design/comments/lxjyu/best_responsive_design_ive_seen/&quot;&gt;Reddit Thread&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/u/0/112760662546196815444/posts/ioybN9drxLv&quot;&gt;Google+ Post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/#!/MrTinNilsson/status/131717934908313601&quot;&gt;Twitter #1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/#!/gilestalbot/status/131679856940421120&quot;&gt;Twitter #2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Simple keyboard navigation</title>
+      <link>http://mrfrisby.com/articles/simple-keyboard-navigation/</link>
+      <pubDate>Mon, 09 Jul 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/simple-keyboard-navigation/</guid>
+      <author></author>
+      <description>&lt;p&gt;Below is a quick snippet of code which allows you to add keyboard navigation to your (jQuery-enabled) shit. In my case, it looks at the href attributes of some stuff on the page (the pagination, which changes on a per-page basis), and also has some hardcoded keyboard shortcuts for things like the homepage, reading list, etc. I guess the next logical step would be a twitter style &lt;a href=&quot;http://goo.gl/IGKBO&quot;&gt;overlay&lt;/a&gt; listing available keyboard shortcuts.
+
+&lt;/p&gt;
+&lt;p&gt;To me, JavaScript is basically magic, and so this piece of code was and is probably both; Stolen from somewhere else &amp; An outrage to anyone who actually understands this stuff.
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/3073087.js?file=keyboard-navigation.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ppk&quot;&gt;PPK&lt;/a&gt; has a &lt;a href=&quot;http://www.quirksmode.org/js/keys.html#link7&quot;&gt;handy tool&lt;/a&gt; for determining keyCodes which I was using to rig this thing up.
 &lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:8888/articles/hello-world-copy/</link>
-      <pubDate>Tue, 31 Jan 2012 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:8888/articles/hello-world-copy/</guid>
+      <title>The Baseline has Shifted</title>
+      <link>http://mrfrisby.com/articles/the-baseline-has-shifted/</link>
+      <pubDate>Thu, 05 Jul 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/the-baseline-has-shifted/</guid>
       <author></author>
-      <description>&lt;p&gt;This is an example of how you can set up a blog with RSS, and an archive using Wintersmith. If you want a bare bones example check out the site in &lt;code&gt;examples/basic/&lt;/code&gt; in the repository root or use &lt;code&gt;wintersmith new &lt;path&gt; --template basic&lt;/code&gt; when creating a new site.
+      <description>&lt;p&gt;When I was 15 I used to spend all of the money I could wangle out of my parents to buy bootleg CDs of my favourite bands playing live versions of as-yet-unreleased material. They sounded like shit. They sounded like shit and I paid for them. I paid for them because my fervour demanded I have them, and because the shitty version was the only version, it was the version I&apos;d buy.
+
+&lt;/p&gt;
+&lt;p&gt;Fast-forward a dozen years: My fervour has cooled and I&apos;m happy to wait for a song to be released before buying it. The bootlegs are still available, but when it comes to making a decision between the shitty version recorded in a loud concert hall, and the version recorded in a studio and intended for home play, there&apos;s an obvious winner.
+
+&lt;/p&gt;
+&lt;p&gt;And that long-winded introduction is a clumsy metaphor for the internet. An internet where just a few years ago the base expectation was that everything was a bit shitty. It was the best we had, and we used it and revelled in it - but it really was a bit crap. Google didn&apos;t know what you were looking for, browsers weren&apos;t capable of rendering consistently, services were information silos and the patterns of design for the web hadn&apos;t been established and honed and everything was confusing and inconsistent and odd.
+
+&lt;/p&gt;
+&lt;p&gt;Things are better now. People have decent internet connections, Google knows more about you than Tesco, your data is liberated from the clutches of corporations and the internet increasingly looks great, and works wonderfully. Mobile devices and platforms are bringing the best of Human Interface Design to the masses, and the big internet heavyweights - Google, Facebook, Twitter, etc. - are investing in design like never before. Just like when I stopped buying those bootleg CDs, I&apos;ve stopped being forgiving of crap user experience, inconsistent design &amp; poorly considered user-flow. And I don&apos;t think it&apos;s just me. Apple - whether you like it or not - are educating a generation of consumers that user experience need not be analogous to a shitty bootleg, that design is synonymous with quality, with security, with integrity. That if something looks like shit, feels like shit &amp; treats you like shit - it probably is shit.
+
+&lt;/p&gt;
+&lt;p&gt;Hundreds of millions of people are carrying iPhones &amp; using facebook. They know good design, even if they don&apos;t know the jargon. Startup folks are right to identify designers as the kingmakers of new online companies; but big business needs to get there too: In a global marketplace, where design has a value of its own, it&apos;s not going to suffice to be good enough anymore. And what a fantastic challenge it is that lays before all of us who make websites. To stop settling for the mediocre, to talk about design not in terms of window-dressing, but experience-forming. To switch the pivot point from satisfaction to &lt;a href=&quot;http://talks.webstock.org.nz/speakers/doug-bowman/delivering-delight/&quot;&gt;delight&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;If you design websites and don&apos;t aim to delight - do something else. If you design websites and think good enough is good enough - do something else. If this brave new world where design is a currency and you hold the cheque book doesn&apos;t make your heart flutter and your mind run wild with possibilities - do something else. The years in which web designers could get away with being average are coming to an end, and it is the engaged, enthusiastic, eager-to-please who are going to see their value rise in this new design-cognisant digital economy. Excited? Fucking right I am.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Why I shall be a Clarke-Frisby</title>
+      <link>http://mrfrisby.com/articles/why-i-shall-be-a-clarke-frisby/</link>
+      <pubDate>Mon, 07 Nov 2011 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/why-i-shall-be-a-clarke-frisby/</guid>
+      <author></author>
+      <description>&lt;p&gt;Either-side of proposing to my darling Victoria last December - and in the months since - a battle has raged in the Clarke/Frisby household over the naming of my wife-to-be and our would-be offspring. I had defaulted to a position borne of a warm-fuzzy sense of traditionalism, of asserting my claim to ownership over my family, of following blindly in the footsteps of my father, and his father before him.
+
+&lt;/p&gt;
+&lt;p&gt;Victoria was never going to stand for that, and so we argued on at least three occasions over what her married name would be. There was - after the third bout - an uneasy concession on either-side which would see Victoria take my name &amp; add it to hers. The war was over, my territory had remained unthreatened.
+
+&lt;/p&gt;
+&lt;p&gt;However, riding along with my lovely fiancée on her tireless, spirited fight for gender equality, and realising the error of my ways - I decided that the fairest, most equitable, warm-fuzziest thing to do is for both of us to take both of our names. And so once married I shall be Stuart Clarke-Frisby and Victoria will become Victoria (Clarkey) Clarke-Frisby. It occurred to me that there really is little sense in Victoria taking my name, for starters: it&apos;s faintly ridiculous &amp; my families form par-excellence in the reproductive stakes means there is no threat to the good name Frisby from dying out anytime soon. But, there is something to be said for uniting under a single banner, for forming a public alliance, for nailing your flag to a syllabically-rich pole. And there is also something to be said for starting our married life under such a banner. We both know in our relationship that no quarter is given to the traditionally-demeaning gender roles of old, and that we are - and will remain - equals. And so in taking our name we demonstrate.
+
+&lt;/p&gt;
+&lt;p&gt;Yes, it&apos;s going to be an administrative nightmare, no I haven&apos;t checked if mrclarkefrisby.com is available for purchase and yes I do worry what will happen if our children in turn marry double-barrelled beaus. The thought of a &lt;a href=&quot;http://youtu.be/SjxY9rZwNGU&quot;&gt;Chumley-Warner-Clarke-Frisby&lt;/a&gt; is not worth thinking about; but neither is the idea that enforcing my name upon Victoria is the right way to formalise my promise to love &amp; respect her for the rest of our lives.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>You can tell a lot about a man from his unread email count</title>
+      <link>http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/</link>
+      <pubDate>Mon, 17 Sep 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/</guid>
+      <author></author>
+      <description>&lt;p&gt;I talk about craftsmanship a lot on this blog &amp; elsewhere, typically as it relates to my specific role as a designer of websites. But I&apos;d like to explore craftmanship in a more general sense as it relates to the management and development of ones working environment. 
+
+&lt;/p&gt;
+&lt;p&gt;I&apos;m a bit anal about working smart, simplifying repetitive tasks, documenting, and using the appropriate tools for the appropriate tasks. I think that to do my job well, I need to think about and improve upon these things. And so I equip myself with the best possible tools, and I set aside time to  optimise my workflow. Here are some of the things I&apos;ve found useful, and which you might find useful too: 
+
+&lt;/p&gt;
+&lt;h1&gt;Email&lt;/h1&gt;
+&lt;h2&gt;You don&apos;t need to know how many email&apos;s you haven&apos;t read.&lt;/h2&gt;
+&lt;p&gt;Disable the unread item counter on your mail icon. Disable dumb incoming email notifications. These things can be useful, but only if they&apos;re used to highlight important incoming mail, not any old pile of crap hitting your inbox. It&apos;s the classic boy who cried wolf story, you&apos;ll end up ignoring important stuff is it looks just like unimportant stuff.
+
+&lt;/p&gt;
+&lt;p&gt;Hiding the unread count has stopped me from running along and reading mail as it comes in, I want to read email when it is least distruptive to my other tasks. In exceptional cases, I have rules which trigger notifications for emails I need to ask upon. 
+
+&lt;/p&gt;
+&lt;h5&gt;Empty your inbox&lt;/h5&gt;
+&lt;p&gt;If you work in a corporate environment like me, you&apos;ll have hundreds of emails arriving everyday, apply rules to move these messages as they arrive. Your inbox should be the place from which important messages are readily visible. Gmails &apos;important mail&apos; &amp; mail.app&apos;s VIP features are hacks on top of poor email management, you don&apos;t need them if you apply rules and keep a clean inbox. I archive mail upon having read or actioned it, my inbox is that of someone who knows what is going on in my team, department &amp; company. If you have 65k unread messages, there&apos;s no way you know what is going on anywhere, and you have no way of distinguishing the least important &amp; most important messages in your inbox. You&apos;re just going to spend a lot of time scrolling. 
+
+&lt;/p&gt;
+&lt;h5&gt;Flagged, Pinned, Archived.&lt;/h5&gt;
+&lt;p&gt;I have three buckets of actioned emails. Flagged messages are those which require further action, Pinned messages are those which contain information which I will need to refer to again &amp; archived messages are those which have served their purpose and require no further action. This works really well for me, your mileage will of course vary. What you definitely need is a system, the particulars should be honed to your specific needs. The absense of a system is suicidal. 
+
+&lt;/p&gt;
+&lt;h2&gt;Calendering&lt;/h2&gt;
+&lt;p&gt;I use &lt;a href=&quot;http://flexibits.com/fantastical&quot;&gt;Fantastical&lt;/a&gt; as my primary calendar application. It allows me to turn normal sentances into events with a single keyboard shortcut. Quite often, I have people drop by my desk and ask to schedule meetings as short notice, at which point I instantly create a new calendar entry. Many people write down the time and commit to checking their calendar later, I add the event there and then, I forget fewer committments this way. Of course, some things happen frequently at predictable times, and for these I have the appropriate repeating calendar entries setup, and with reminders set depeding on their appropriateness.
+
+&lt;/p&gt;
+&lt;p&gt;My beuatiful-lady-wife-to-be &amp; I also share reminders and plans calendars which are synced to our myriad devices, and so I know when adding meetings when I&apos;m available both on-the-clock &amp; off it. 
+
+&lt;/p&gt;
+&lt;p&gt;I got a great tip from &lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;Back To Work&lt;/a&gt; Recently when Merlin Mann, who suggested prepending unconfirmed calendar entries with a &apos;¿&apos;, which means I can now scan for stuff which is pending confirmation from the other party with greater ease than looking for .
+
+&lt;/p&gt;
+&lt;h5&gt;Calendar integrations&lt;/h5&gt;
+&lt;p&gt;In addition to the stuff I manage manually, I have some third-party services which pipe stuff into my calendars: 
+
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;Last.fm&lt;/a&gt; - I subscribe to a calendar which lists the gigs I&apos;ve committed to attend. I typically book tickets a long way in advance, and am prone to forget about them. This stops that from happening.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;Lanyrd&lt;/a&gt;- I subscribe to a list of events tagged &apos;web design&apos; which means I get to keep an eye on what&apos;s going on in our industry. I also pipe in the schedules of the events I&apos;m attending and thus aren&apos;t reliant on a floppy schedule to know what I&apos;m going to be listening to. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;Tripit&lt;/a&gt; - Tripit watches my email account for reservations, builds iteneraries for trips, and syncs to my &apos;trips&apos; calendar. I grant access to this to the afore mentioned lady, which means she&apos;ll know when a plane goes down over the English channel whether I was on it or not.  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;Facebook&lt;/a&gt; - I pipe in my events &amp; Birthday feeds. I never remember, which makes me look like an unthinking idiot. This helps, though I really need to set alerts long enough in advance that I can buy cards &amp; post them in good time. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Repetitive task avoidance&lt;/h2&gt;
+&lt;p&gt;The third time I have to perform a given task manually is when I make note of it and commit to spending some time making it easier. Very often these things are as simple as having to repeatedly visit a given URL, perform an action and read the output. I solve most of these  with &lt;a href=&quot;http://alfredapp.com&quot;&gt;Alfred&lt;/a&gt; which supports &apos;custom searches&apos;, these are URLs you can inject a string into from the alfred interface. I have around fifty of these searches which go from the inane to the massively time-saving. My colleagues generally look on in awe as I perform tasks in seconds which otherwise take whole minutes to complete. Alfred syncs across machines via dropbox, and is not bound to any specific browser, which makes these tools more useful to me than browser bookmark(/lets). 
+
+&lt;/p&gt;
+&lt;p&gt;The other set of manual tasks I optimise are handled by &lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;TextExpander&lt;/a&gt;, they&apos;re things like writing out my email address, using the correct syntax for some -vendor-prefixed CSS crap or generating a valid credit number for testing our checkout process. Some of my TextExpander snippets are inredibly complex, using applescripts &amp; shell-scripts to do things in milliseconds which before would take me minutes. I&apos;d record a video, but most of the things that would blow your mind are tied to internal work stuff which would make no sense. 
+
+&lt;/p&gt;
+&lt;h2&gt;Capturing information&lt;/h2&gt;
+&lt;h5&gt;Text&lt;/h5&gt;
+&lt;p&gt;Another large part of day is spent managing incoming information. Meeting summaries, interview notes, unanswered questions, ideas, etc. I tried lots of things for keeping this information: evernote, NValt, my email drafts folder, Paper, paper. I finally settled on mou by Chen Louis, which is a Markdown-augmented text editor. I keep a Text Documents folder in my DropBox, and use TextExpander to expand Markdown to create documents which I can then export as HTML and have served from my dropbox public folder. Think about that for a minute. I enter raw text, and I get a cloud-synced, formatted, backed-up, indexable text file.
+
+&lt;/p&gt;
+&lt;p&gt;I have a scratchpad document which I dump stuff into as required, and then a whole bunch of subject specific files which I&apos;m working on at any given time. I can share them with my colleagues, embed the exported HTML file into pages on our internal wiki, print them to take into meetings. The possibilities are endless, and the method of entry completely frictionless. If Mou.app had (and I&apos;m told it&apos;d coming) a single window, tabbed interface, I&apos;d be even happier.
+
+&lt;/p&gt;
+&lt;h5&gt;Images&lt;/h5&gt;
+&lt;p&gt;The dropbox theme continues with my method of sharing images. Typically what I share are screenshots. Interesting stuff from other websites, bugs or issues identified on our own, parts of mockups which I want to include in a snippet document which I&apos;ll later share with the person implementing my design work. 
+
+&lt;/p&gt;
+&lt;p&gt;To do this quickly and easily I use &lt;a href=&quot;http://mrfrisby.com/articles/you-can-tell-a-lot-about-a-man-from-his-unread-email-count/#&quot;&gt;GrabBox&lt;/a&gt; which piggybacks on the OSX screenshot tool. When it spots a screenshot landing on my desktop, it picks that file up, drops it into a public folder on my dropbox, creates a short URL pointing to the image, and places that URL on the system clipboard. I&apos;ll let you revel in that for a second, because trust me - it&apos;s mind-blowingly good. I take a screenshot, and it sets of this magical sequence of events which ends with my having a URL pointing to that screenshot, and a file stored on my machine and in my dropbox. I dare anyone to come up with a quicker way to do that. 
+
 
 
 &lt;/p&gt;
