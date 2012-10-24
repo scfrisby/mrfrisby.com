@@ -17,3 +17,5 @@ block content
        = page.metadata.ds
    div.slot-2-3-4-5  
     article.post!= page.html
+    if page.metadata.comments == "on"
+     include comments
