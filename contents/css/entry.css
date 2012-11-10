@@ -96,7 +96,7 @@ article > div h5, article > div h6 {
 	outline: 1px solid red;
 }
 
-article img {
+article img, article object, article iframe {
 	max-width: 100%;
 }
 .gist-file {

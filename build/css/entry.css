@@ -96,7 +96,7 @@ article > div h5, article > div h6 {
 	outline: 1px solid red;
 }
 
-article img {
+article img, article object, article iframe {
 	max-width: 100%;
 }
 .gist-file {
@@ -137,4 +137,9 @@ cite {
 	text-align: right;
 	padding: .25em .5em;
 	font-style: normal;
+}
+#disqus_thread {
+	border-top: 1px solid #DDD;
+	margin-top: 1em;
+	padding-top: 1em;
 }
