@@ -129,7 +129,7 @@ blockquote {
 	padding: 1em .75em .5em;
 	font-style: italic;
 	background-color: rgba(0, 68, 68, .05);
-	margin: 0;
+	margin: 0 0 1em 0;
 }
 cite {
 	display: block;

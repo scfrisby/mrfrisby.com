@@ -5,9 +5,33 @@
     <atom:link href="http://mrfrisby.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://mrfrisby.com</link>
     <description>Stuart Frisby is a designer based in Amsterdam</description>
-    <pubDate>Tue, 27 Dec 2011 15:00:00 +0100</pubDate>
+    <pubDate>Sat, 30 Jul 2011 15:00:00 +0200</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>A Bicycle</title>
+      <link>http://mrfrisby.com/articles/a-bicycle/</link>
+      <pubDate>Sat, 30 Jul 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/a-bicycle/</guid>
+      <author></author>
+      <description>&lt;p&gt;When I lived in Fukuoka I used to zip around on a little city bike, it was white - really white - and so I named it (as a football geek would) after Andrés Iniesta, the pale impresario at the heart of the Barcelona &amp; Spain midfield. 
+
+&lt;/p&gt;
+&lt;p&gt;Andrés was a great little bike, and being in Japan meant that I was never in danger of being maimed by a passing car or having my bike stolen from some far-flung outreach of the city. I would just jump on it of an evening and ride off in one direction or another, ending up in places which the few foreigners in the city rarely visited. I&apos;d cycle through suburban neighbourhoods and out of town retail complexes, to fishing outposts and motorway intersections none of which I could tell you the names of. It was on my bike that I saw the best of Fukuoka, and through cycling that I was able to enjoy Japan properly, watching it pass by me, passing by it &amp; being a part of a giant, moving ecosystem of people and machines.
+
+&lt;/p&gt;
+&lt;p&gt;And so here I am in Amsterdam - the European Capital of the bicycle - and I&apos;ve only just got around to buying a bike, and I&apos;ve yet to ride it anywhere I haven&apos;t needed to go. For Amsterdam is not quite the same as Fukuoka, one isn&apos;t part of an ecosystem here so much as a rusting nail in an violent sea of rusting nails, all scraping against each other and vying for top spot and causing harm, and popping tyres and severing arteries. Trams &amp; tramlines, throngs of camera-toting tourists,stupid scooters and their moronic-drivers, one gets the feeling that Amsterdam is designed not for cyclists, but for a transportationary conflict designed to extinguish all but the victorious. And so I&apos;ve yet to venture south of home in the direction of the sprawling-flats on North Holland, I&apos;ve yet to cross the Amstel in east to explore. I have however decided upon a new name for my new bike. As white as Andrés was, my new bike is black. And so whilst fearing some sort of racial faux-pas I have decided to name this bike after a black footballer - and could think of no more enjoyable a name to utter than that of the DR Congo &amp; former Newcastle United striker; Lomana LuaLua. I&apos;ll be calling him LuaLua for short.
+
+&lt;/p&gt;
+&lt;h5&gt;Other candidates were (in alphabetical order):&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Didier Drogba&lt;/li&gt;
+&lt;li&gt;Danger Fourpence&lt;/li&gt;
+&lt;li&gt;Kazenga LuaLua&lt;/li&gt;
+&lt;li&gt;Peter Ndlovu&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>2012</title>
       <link>http://mrfrisby.com/articles/2012/</link>
@@ -34,27 +58,33 @@
 </description>
     </item>
     <item>
-      <title>A Bicycle</title>
-      <link>http://mrfrisby.com/articles/a-bicycle/</link>
-      <pubDate>Sat, 30 Jul 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://mrfrisby.com/articles/a-bicycle/</guid>
+      <title>A New mrfrisby.com</title>
+      <link>http://mrfrisby.com/articles/a-new-mrfrisby-com/</link>
+      <pubDate>Sun, 11 Nov 2012 23:10:00 +0100</pubDate>
+      <guid isPermaLink="true">http://mrfrisby.com/articles/a-new-mrfrisby-com/</guid>
       <author></author>
-      <description>&lt;p&gt;When I lived in Fukuoka I used to zip around on a little city bike, it was white - really white - and so I named it (as a football geek would) after Andrés Iniesta, the pale impresario at the heart of the Barcelona &amp; Spain midfield. 
+      <description>&lt;p&gt;When I set live the previous version of this site, it was the simplest thing I could release - a set of static HTML files, authored inside my text editor, everything written by hand and augmented by the occasional TextExpander shortcut. I talked then about how &lt;code&gt;HTML&lt;/code&gt; &amp; &lt;code&gt;CSS&lt;/code&gt; are my environment, and so writing and managing a site in them was natural for me. 
 
 &lt;/p&gt;
-&lt;p&gt;Andrés was a great little bike, and being in Japan meant that I was never in danger of being maimed by a passing car or having my bike stolen from some far-flung outreach of the city. I would just jump on it of an evening and ride off in one direction or another, ending up in places which the few foreigners in the city rarely visited. I&apos;d cycle through suburban neighbourhoods and out of town retail complexes, to fishing outposts and motorway intersections none of which I could tell you the names of. It was on my bike that I saw the best of Fukuoka, and through cycling that I was able to enjoy Japan properly, watching it pass by me, passing by it &amp; being a part of a giant, moving ecosystem of people and machines.
+&lt;p&gt;Having worked that way for a little over a year, I started to lament the tedium of a few little tasks which accompanied posting a new article - manually adding a new entry to my &lt;code&gt;RSS&lt;/code&gt; feed &lt;em&gt;(which I kept fucking up, as &lt;a href=&quot;http://www.thewatchmakerproject.com/&quot;&gt;Matthew&lt;/a&gt; &amp; &lt;a href=&quot;http://www.deepakg.com/&quot;&gt;Deepak&lt;/a&gt; we&apos;re all too happy to point out)&lt;/em&gt;, cross-referencing new posts on various other parts of the site, yadda, yadda. They were pretty minor complaints though, and so when I decided I wanted to solve them I went looking for something that was almost as simple as my handspun system, but meant I&apos;d be doing less donkey work. 
 
 &lt;/p&gt;
-&lt;p&gt;And so here I am in Amsterdam - the European Capital of the bicycle - and I&apos;ve only just got around to buying a bike, and I&apos;ve yet to ride it anywhere I haven&apos;t needed to go. For Amsterdam is not quite the same as Fukuoka, one isn&apos;t part of an ecosystem here so much as a rusting nail in an violent sea of rusting nails, all scraping against each other and vying for top spot and causing harm, and popping tyres and severing arteries. Trams &amp; tramlines, throngs of camera-toting tourists,stupid scooters and their moronic-drivers, one gets the feeling that Amsterdam is designed not for cyclists, but for a transportationary conflict designed to extinguish all but the victorious. And so I&apos;ve yet to venture south of home in the direction of the sprawling-flats on North Holland, I&apos;ve yet to cross the Amstel in east to explore. I have however decided upon a new name for my new bike. As white as Andrés was, my new bike is black. And so whilst fearing some sort of racial faux-pas I have decided to name this bike after a black footballer - and could think of no more enjoyable a name to utter than that of the DR Congo &amp; former Newcastle United striker; Lomana LuaLua. I&apos;ll be calling him LuaLua for short.
+&lt;p&gt;After trying to install/compile/read-the-docs-of many static site generators and failing at various ill-documented stages, I ended up getting along rather better with &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;Wintersmith&lt;/a&gt; by &lt;a href=&quot;http://johan-nordberg.com/&quot;&gt;Johan Nordberg&lt;/a&gt; - which was well documented and easy to get going. The &lt;a href=&quot;http://jade-lang.com/&quot;&gt;Jade&lt;/a&gt; templates are taking some getting used to, but I&apos;m enjoying it, and finding it quite trivial to extend and bend it to my will here on this new version of my site. That it&apos;s static means I can keep it synced across machines via dropbox and add new posts from anywhere I can write a markdown file. 
 
 &lt;/p&gt;
-&lt;h5&gt;Other candidates were (in alphabetical order):&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;Didier Drogba&lt;/li&gt;
-&lt;li&gt;Danger Fourpence&lt;/li&gt;
-&lt;li&gt;Kazenga LuaLua&lt;/li&gt;
-&lt;li&gt;Peter Ndlovu&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The keen-eyed amongst you will also have noticed that this version is somewhat responsive, but that&apos;s hardly a difficult task for what is essentially a collection of text documents. Design-wise I&apos;ve been influenced in the main-part by &lt;a href=&quot;http://monocle.com&quot;&gt;Monocle&lt;/a&gt; and it&apos;s lovely editorial design - I stopped short of creating a complete remake, but the influence is pretty self-evident for anyone that reads it. In place of &lt;a href=&quot;http://goo.gl/KYmQi&quot;&gt;Plantin&lt;/a&gt; I&apos;m using &lt;a href=&quot;http://www.google.com/webfonts/specimen/Gentium+Book+Basic&quot;&gt;Gentium Book Basic&lt;/a&gt;, which is a lot less lovely, but a lot more available. You can read a bit about Monocle&apos;s type design in &lt;a href=&quot;http://fontfeed.com/archives/in-use-plantin-for-monocle/&quot;&gt;this 2009 article&lt;/a&gt; from Font Feed, this quote in particular sums up the retrained quality the publication exudes: 
+
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[…] I think that if you want to build something to last it should have a confident permanent look. Something that doesn’t reinvent itself every 6 months. Plus I have always found that restraint and a tight set of rules actually prompts more creative solutions. We always look at ways to use Plantin, not ways to replace it. &lt;cite&gt;Monocle Creative Director - Richard Spencer Powell&lt;/cite&gt;  
+
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I&apos;m also bringing back comments for the first time in years on posts for which opportunities for discussion exist - they&apos;re the same &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; comments you find everywhere else. If you&apos;re curious to see how they or anything else here in implemented, the full source is on &lt;a href=&quot;https://github.com/scfrisby/mrfrisby.com&quot;&gt;github&lt;/a&gt;. 
+
+&lt;/p&gt;
+&lt;p&gt;If you spot anything broken, do give me a shout - I&apos;m still fiddling around with some stuff and will get around to adding an about page at some point, but this&apos;ll do for now. &lt;/p&gt;
 </description>
     </item>
     <item>

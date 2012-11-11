@@ -1,8 +1,10 @@
-if page.url != "/"
- div.slot-6-7
-  a.view_more(href='/archive.html') Archives
- div.slot-8-9
-  a(href='mailto:stuart@mrfrisby.com') stuart@mrfrisby.com
+footer
+ if page.url != "/"
+  div.slot-6
+   a.view_more(href='/archive.html') Archives
+   a.view_more(href='/') Home
+  div.slot-7-8-9
+   a(href='mailto:stuart@mrfrisby.com') stuart@mrfrisby.com
 
 
 script(src='//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js') 
