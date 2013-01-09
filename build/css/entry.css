@@ -81,6 +81,16 @@ article > div h5, article > div h6 {
 	line-height: 1.5em;
 	margin-left: 1em;
 }
+.entry article ol.footnotes {
+	list-style: decimal inside none;
+	margin: 1em 0;
+	border-top: 1px solid #CCC;
+	color: #888;
+}
+.entry article ol.footnotes {
+	display: list-item;
+	font-size: .5em;
+}
 .entry article > div h1 + h2 {
 	
 	font-style: italic;
