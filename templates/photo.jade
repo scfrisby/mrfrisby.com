@@ -1,0 +1,21 @@
+extends layout
+
+block prepend title
+  = page.title + ' | '
+
+block header
+
+block content
+ div.entry.photo
+  article.contents.row
+   header.slot-0-1
+    div
+     h1=page.title
+     if page.metadata.ds
+      span.pub_date
+       &mdash;
+       = page.metadata.ds
+   div.slot-2-3-4-5
+    article.post!= page.html
+    if page.metadata.comments == "on"
+     include comments
