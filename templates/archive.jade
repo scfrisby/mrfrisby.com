@@ -21,6 +21,10 @@ block content
      each year in _.chain(archive).keys().reverse().value()
        - var months = _.groupBy(archive[year], function(item) { return map[item.date.getMonth()] })
          each articles, month in months
+          h3
+           = month
+           span 
+            = year
              each article in articles
               li
                h1 

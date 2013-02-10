@@ -2,11 +2,12 @@
 html(lang='en')
   head
     block head
-      meta(charset='utf-8')
-      title
-        block title
+     meta(charset='utf-8')
+     title
+      block title
         = locals.name
     meta(name='viewport', content='width=device-width')
+    block metatags
     link(rel='alternate', href=locals.url+'/syndicate.xml', type='application/rss+xml', title=locals.description)
     link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic')
     link(rel='stylesheet', href='/css/base.css')

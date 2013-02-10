@@ -146,9 +146,8 @@ footer {
 .slot-6 .view_more {
 	margin-left: 0;
 }
-.slot-7-8-9 a:link {
+.slot-7-8-9 a.twitters:link {
 	font-size: .5em;
-	text-align: right;
 	display: block;
 	color: #888;
 	margin-top: .5em;
