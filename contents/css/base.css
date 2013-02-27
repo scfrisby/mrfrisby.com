@@ -172,6 +172,23 @@ footer {
 		text-align: center;
 		font-size: 180%;
 	}
+	.contents h1 {
+		text-align: center;
+	}
+	.contents ol {
+		margin-left: 0;
+	}
+	.contents ol li span.date {
+		display: block;
+		width: 100%;
+		margin-left: 0;
+		text-align: left;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: .5em;
+	}
+	.view_more {
+		margin: 10px 0 0 5px;
+	}
 }
 @media screen and (min-width: 720px) {
 	article > header div.fixed {
