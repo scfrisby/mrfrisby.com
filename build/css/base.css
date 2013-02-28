@@ -17,6 +17,7 @@ a:hover {
 body {
 	margin: 20px;
 	font: normal normal normal 32px/1.4em 'Gentium Book Basic' serif;
+	font-size: 32px; /* Firefox - why you so */
 	color: #044;
 	background-color: #fff;
 }
